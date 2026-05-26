@@ -2,13 +2,16 @@
 
 <img src="./img/profile-banner.svg" alt="Nguyen Thanh An - Cloud, AI, Developer Tools, Open Source" width="100%" />
 
-# Nguyen Thanh An 👋
+#  Hello, my name is Nguyen Thanh An.👋
 
-### Chairman & CEO — Pho Tue Software Solutions JSC · Cloud Infrastructure · AI Engineering · Developer Platforms · Open Source
+### Chairman & CEO — Pho Tue Software Solutions JSC · Cloud Infrastructure · AI/ML/GPUs · AI Engineering · Developer Platforms · Open Source Builder
 
 <p>
   <a href="https://github.com/thanhan92-f1"><img src="https://img.shields.io/badge/GitHub-thanhan92--f1-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://photuesoftware.com/"><img src="https://img.shields.io/badge/Pho%20Tue%20Software-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Pho Tue Software Solutions JSC" /></a>
+<a href="https://photuesoftware.com/">
+  <img src="https://img.shields.io/badge/Pho%20Tue%20Software%20Solutions%20JSC-Official%20Website-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" 
+       alt="Pho Tue Software Solutions JSC" />
+</a>
   <a href="https://my.hitechcloud.vn/"><img src="https://img.shields.io/badge/HiTechCloud-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="HiTechCloud" /></a>
   <a href="https://www.linkedin.com/in/nguyenthanhan92-f1/"><img src="https://img.shields.io/badge/LinkedIn-Nguyen%20Thanh%20An-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/anthanh92f1"><img src="https://img.shields.io/badge/X-@anthanh92f1-000000?style=for-the-badge&logo=x" alt="X" /></a>
