@@ -155,56 +155,74 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-64748B?style=for-the-badge&logo=groovy&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-F7523F?style=for-the-badge&logo=blade&logoColor=white)
 
 </div>
 
-> Auto-generated from public repositories across the personal profile and managed organizations. Languages, repository counts and inferred stack are refreshed by GitHub Actions.
+> Auto-generated from **231 public repositories** across the personal profile and managed organizations. Languages, repository counts and inferred stack are refreshed by GitHub Actions.
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **Python** | `██████░░░░░░░░░░░░░░` | **30.0%** |
-| **TypeScript** | `█████░░░░░░░░░░░░░░░` | **25.0%** |
-| **JavaScript** | `████░░░░░░░░░░░░░░░░` | **20.0%** |
-| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **10.0%** |
-| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **7.5%** |
-| **Dockerfile** | `█░░░░░░░░░░░░░░░░░░░` | **7.5%** |
+| **TypeScript** | `█████████░░░░░░░░░░░` | **47.1%** |
+| **PHP** | `████░░░░░░░░░░░░░░░░` | **18.8%** |
+| **Python** | `██░░░░░░░░░░░░░░░░░░` | **11.2%** |
+| **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **8.9%** |
+| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **2.3%** |
+| **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.9%** |
+| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.6%** |
+| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.4%** |
+| **C#** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
+| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
+| **Groovy** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
+| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.7%** |
 
 ### Account & organization scan
 
 | Scope | Public repos scanned | Top primary languages |
 |---|---:|---|
-| **Nguyen Thanh An** | Updating | Python, TypeScript, PHP, Shell |
-| **HiTechCloud** | Updating | JavaScript, Python, PHP, Shell, Dockerfile |
-| **HiTechAI VN** | Updating | TypeScript, Dockerfile, Python |
-| **Vietnam API Sharing Community** | Updating | Python, TypeScript, PHP, JavaScript |
+| **Nguyen Thanh An** | 121 | Shell, TypeScript, JavaScript, Python, PHP |
+| **HiTechCloud** | 71 | Python, Dockerfile, Shell, JavaScript, Go |
+| **HiTechAI VN** | 17 | TypeScript, C++, Dockerfile |
+| **Vietnam API Sharing Community** | 22 | Python, JavaScript, TypeScript, HTML |
 
 ### Auto-detected tech stack
 
 | Auto-detected stack | Signal |
 |---|---|
-| **Languages & Backend** | Python · TypeScript · JavaScript · PHP · FastAPI · Node.js · SDK |
-| **Cloud / DevOps / Infra** | Docker · Linux · Kubernetes / K3s · Proxmox · NVIDIA GPU · Cloud Platform |
-| **AI / Automation / Tooling** | AI Engineering · LLM / Local AI · Ollama / Local AI · Developer Tools · VS Code Extension · Automation |
-| **API / Community** | API Integration · Banking API · Docs · Vietnamese open-source resources |
+| **Languages & Backend** | TypeScript · Node.js · PHP · Laravel · Python · FastAPI · SDK · JavaScript · Go |
+| **Cloud / DevOps / Infra** | Linux · Provisioning · NVIDIA GPU |
+| **AI / Automation / Tooling** | VS Code Extension · Developer Tools · Automation · CLI · One-click Setup · AI Engineering |
+| **API / Community** | Updating from repository metadata |
 
 ### High-signal repositories
 
 | Repository | Main signal |
 |---|---|
-| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · AI · NVIDIA DGX Spark · local AI |
-| [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · NVIDIA · GPU app launcher |
-| [`HiTechAI-VN/hitechai-copilot-chat`](https://github.com/HiTechAI-VN/hitechai-copilot-chat) | TypeScript · AI IDE · Copilot-like workflow |
-| [`Viet-Nam-API-Sharing-Community/acbbank-python`](https://github.com/Viet-Nam-API-Sharing-Community/acbbank-python) | Python · FastAPI · banking API |
+| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 14 · ⑂ 4 |
+| [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · ai · ai-agent · ai-tools · ⭐ 4 |
+| [`thanhan92-f1/nemoclaw-openclaw-sandbox`](https://github.com/thanhan92-f1/nemoclaw-openclaw-sandbox) | Shell · ai · ai-agent · nemoclaw · ⭐ 5 |
+| [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · ⭐ 6 |
+| [`thanhan92-f1/nvidia-570-proxmox-pve9`](https://github.com/thanhan92-f1/nvidia-570-proxmox-pve9) | Shell · ⭐ 2 |
+| [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
+| [`thanhan92-f1/coinguonlichsu`](https://github.com/thanhan92-f1/coinguonlichsu) | JavaScript · ⭐ 1 |
+| [`thanhan92-f1/easydcim-colocation-for-hostbill`](https://github.com/thanhan92-f1/easydcim-colocation-for-hostbill) | ⑂ 2 |
 
-<sub>Last metrics refresh: waiting for first GitHub Actions run.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled update · run #1. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
