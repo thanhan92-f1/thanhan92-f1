@@ -1,0 +1,7 @@
+# Local organization profile drafts / separate repositories
+org-profiles/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
