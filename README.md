@@ -151,43 +151,62 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 
 ## 🧠 Tech stack & chuyên môn
 
+<!-- PROFILE-METRICS:START -->
+
 <div align="center">
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Cloud / Infrastructure / DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### AI / Backend / API
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
+
+> Auto-generated from public repositories across the personal profile and managed organizations. Languages, repository counts and inferred stack are refreshed by GitHub Actions.
+
+### Dynamic language coverage
+
+| Language | Usage | Share |
+|---|---:|---|
+| **Python** | `██████░░░░░░░░░░░░░░` | **30.0%** |
+| **TypeScript** | `█████░░░░░░░░░░░░░░░` | **25.0%** |
+| **JavaScript** | `████░░░░░░░░░░░░░░░░` | **20.0%** |
+| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **10.0%** |
+| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **7.5%** |
+| **Dockerfile** | `█░░░░░░░░░░░░░░░░░░░` | **7.5%** |
+
+### Account & organization scan
+
+| Scope | Public repos scanned | Top primary languages |
+|---|---:|---|
+| **Nguyen Thanh An** | Updating | Python, TypeScript, PHP, Shell |
+| **HiTechCloud** | Updating | JavaScript, Python, PHP, Shell, Dockerfile |
+| **HiTechAI VN** | Updating | TypeScript, Dockerfile, Python |
+| **Vietnam API Sharing Community** | Updating | Python, TypeScript, PHP, JavaScript |
+
+### Auto-detected tech stack
+
+| Auto-detected stack | Signal |
+|---|---|
+| **Languages & Backend** | Python · TypeScript · JavaScript · PHP · FastAPI · Node.js · SDK |
+| **Cloud / DevOps / Infra** | Docker · Linux · Kubernetes / K3s · Proxmox · NVIDIA GPU · Cloud Platform |
+| **AI / Automation / Tooling** | AI Engineering · LLM / Local AI · Ollama / Local AI · Developer Tools · VS Code Extension · Automation |
+| **API / Community** | API Integration · Banking API · Docs · Vietnamese open-source resources |
+
+### High-signal repositories
+
+| Repository | Main signal |
+|---|---|
+| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · AI · NVIDIA DGX Spark · local AI |
+| [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · NVIDIA · GPU app launcher |
+| [`HiTechAI-VN/hitechai-copilot-chat`](https://github.com/HiTechAI-VN/hitechai-copilot-chat) | TypeScript · AI IDE · Copilot-like workflow |
+| [`Viet-Nam-API-Sharing-Community/acbbank-python`](https://github.com/Viet-Nam-API-Sharing-Community/acbbank-python) | Python · FastAPI · banking API |
+
+<sub>Last metrics refresh: waiting for first GitHub Actions run.</sub>
+
+<!-- PROFILE-METRICS:END -->
 
 ---
 
@@ -196,9 +215,7 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhan92-f1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhan92-f1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhan92-f1&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" alt="Top languages" />
+<img height="165" src="https://streak-stats.demolab.com?user=thanhan92-f1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=thanhan92-f1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
@@ -217,6 +234,10 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 </picture>
 
 <br />
+
+<sub>Contribution Snake tự động cập nhật 12 giờ/lần bằng GitHub Actions.</sub>
+
+<br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhan92-f1&theme=tokyo-night&hide_border=true&area=true&custom_title=Nguyen%20Thanh%20An%20Contribution%20Graph" alt="Nguyen Thanh An contribution graph" width="100%" />
 
