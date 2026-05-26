@@ -17,6 +17,7 @@ import urllib.parse
 import urllib.request
 from collections import Counter
 from dataclasses import dataclass
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
@@ -110,6 +111,7 @@ class Repo:
     topics: tuple[str, ...]
     archived: bool
     fork: bool
+    updated_at: str
 
 
 class GitHubClient:
@@ -175,6 +177,7 @@ class GitHubClient:
                         topics=tuple(item.get("topics", [])),
                         archived=bool(item.get("archived", False)),
                         fork=bool(item.get("fork", False)),
+                        updated_at=item.get("updated_at") or "",
                     )
                 )
             if len(data) < 100:
@@ -272,13 +275,36 @@ def render_language_badges(language_bytes: Counter[str]) -> str:
 
 
 def render_account_summary(repos_by_account: dict[str, list[Repo]]) -> list[str]:
-    rows = ["| Scope | Public repos scanned | Top primary languages |", "|---|---:|---|"]
+    rows = ["| Scope | Public repos scanned | Stars | Forks | Top primary languages |", "|---|---:|---:|---:|---|"]
     for account in ACCOUNTS:
         repos = repos_by_account.get(account["login"], [])
         primary = Counter(repo.language for repo in repos if repo.language)
         top = ", ".join(language for language, _ in primary.most_common(5)) or "N/A"
-        rows.append(f"| **{account['label']}** | {len(repos)} | {top} |")
+        stars = sum(repo.stargazers_count for repo in repos)
+        forks = sum(repo.forks_count for repo in repos)
+        rows.append(f"| **{account['label']}** | {len(repos)} | {stars} | {forks} | {top} |")
     return rows
+
+
+def render_portfolio_metrics(repos_by_account: dict[str, list[Repo]], language_bytes: Counter[str], repos: list[Repo]) -> list[str]:
+    total_repos = sum(len(items) for items in repos_by_account.values())
+    active_repos = sum(1 for repo in repos if not repo.archived and not repo.fork)
+    total_stars = sum(repo.stargazers_count for repo in repos)
+    total_forks = sum(repo.forks_count for repo in repos)
+    top_language = language_bytes.most_common(1)[0][0] if language_bytes else "Updating"
+    latest_update = max((repo.updated_at for repo in repos if repo.updated_at), default="Updating")[:10]
+
+    return [
+        "| Live signal | Value |",
+        "|---|---:|",
+        f"| Public repositories monitored | **{total_repos}** |",
+        f"| Active source repositories | **{active_repos}** |",
+        f"| Detected source languages | **{len(language_bytes)}** |",
+        f"| Aggregate public stars | **{total_stars}** |",
+        f"| Aggregate public forks | **{total_forks}** |",
+        f"| Leading language by code volume | **{top_language}** |",
+        f"| Most recent public repository update | **{latest_update}** |",
+    ]
 
 
 def render_tech_stack(language_bytes: Counter[str], topics: Counter[str]) -> list[str]:
@@ -368,7 +394,8 @@ def render_block(repos_by_account: dict[str, list[Repo]], language_bytes: Counte
     total_repos = sum(len(items) for items in repos_by_account.values())
     total_languages = len(language_bytes)
     generated_at = os.environ.get("GITHUB_RUN_NUMBER")
-    update_note = "GitHub Actions scheduled update"
+    refreshed_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    update_note = f"GitHub Actions scheduled/manual update · {refreshed_at}"
     if generated_at:
         update_note += f" · run #{generated_at}"
 
@@ -381,7 +408,11 @@ def render_block(repos_by_account: dict[str, list[Repo]], language_bytes: Counte
         "",
         "</div>",
         "",
-        f"> Auto-generated from **{total_repos} public repositories** across the personal profile and managed organizations. Languages, repository counts and inferred stack are refreshed by GitHub Actions.",
+        f"> Auto-generated profile intelligence from **{total_repos} public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.",
+        "",
+        "### Real-time portfolio signals",
+        "",
+        *render_portfolio_metrics(repos_by_account, language_bytes, repos),
         "",
         "### Dynamic language coverage",
         "",

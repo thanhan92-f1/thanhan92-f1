@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./img/profile-banner.svg" alt="Nguyen Thanh An - Cloud, AI, DevTools, Open Source" width="100%" />
+<img src="./img/profile-banner.svg" alt="Nguyen Thanh An - Cloud, AI, Developer Tools, Open Source" width="100%" />
 
-# Hello, my name is Nguyen Thanh An.👋
+# Nguyen Thanh An 👋
 
-### Chairman & CEO — Pho Tue Software Solutions JSC · Cloud / AI / DevTools / Open Source Builder
+### Chairman & CEO — Pho Tue Software Solutions JSC · Cloud Infrastructure · AI Engineering · Developer Platforms · Open Source
 
 <p>
   <a href="https://github.com/thanhan92-f1"><img src="https://img.shields.io/badge/GitHub-thanhan92--f1-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://photuesoftware.com/"><img src="https://img.shields.io/badge/Pho%20Tue%20Software-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Pho Tue Software" /></a>
+  <a href="https://photuesoftware.com/"><img src="https://img.shields.io/badge/Pho%20Tue%20Software-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Pho Tue Software Solutions JSC" /></a>
   <a href="https://my.hitechcloud.vn/"><img src="https://img.shields.io/badge/HiTechCloud-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="HiTechCloud" /></a>
   <a href="https://www.linkedin.com/in/nguyenthanhan92-f1/"><img src="https://img.shields.io/badge/LinkedIn-Nguyen%20Thanh%20An-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://x.com/anthanh92f1"><img src="https://img.shields.io/badge/X-@anthanh92f1-000000?style=for-the-badge&logo=x" alt="X" /></a>
@@ -22,54 +22,42 @@
 </p>
 
 </div>
- 
----
-
-## 🚀 Tổng quan
-
-I am **Nguyen Thanh An** — Founder/Chairman & CEO at **Pho Tue Software Solutions JSC**, focusing on building a technology ecosystem including **HiTechCloud**, **HiTechAI**, **HiTechPay**, **HiTechCoder** and **HMI IDC**.
-
-My primary focus is building and contributing to platforms in **cloud infrastructure**, **AI engineering**, **developer tools**, **automation**, **API integrations**, and **open-source** projects that empower and support the Vietnamese engineering community.
-
-- 🏢 **Company:** Pho Tue Software Solutions JSC
-- ☁️ **Cloud brand:** HiTechCloud
-- 🤖 **AI ecosystem:** HiTechAI VN
-- 🇻🇳 **Community:** Vietnam API Sharing Community
-- 📍 **Location:** Ho Chi Minh City, Vietnam
-- 🧭 **Focus:** Cloud, AI, DevTools, API, Automation, Infrastructure, Open Source
-- 🏆 **GitHub achievements:** Pair Extraordinaire · Pull Shark · YOLO
-- 📊 **Public activity:** 1,000+ contributions in the last year
 
 ---
 
-## 🧩 What Am I Building?
+## Executive Profile
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>☁️ Cloud Infrastructure</h3>
-      <p>Cloud infrastructure management systems, **self-hosted platforms**, **Proxmox**, **Kubernetes/K3s**, **GPU servers**, **automation agents**, and **cloud management APIs**.</p>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI Engineering</h3>
-      <p>Local/private AI tools, **NVIDIA DGX Spark**, **Ollama**, **inference automation**, **AI IDE extensions**, and developer productivity workflows for accelerated software engineering.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛠️ Developer Tools</h3>
-      <p>Extensions, **CLI tools**, **automation scripts**, **team toolkits**, **remote development environments**, **CI/CD pipelines**, **package tooling**, and modern product development workflows.</p>
-    </td>
-    <td width="50%">
-      <h3>🔌 API & Integration</h3>
-      <p>API sharing communities, **banking integrations**, **REST API collections**, **FastAPI services**, **Python/TypeScript SDKs**, and developer integration documentation.</p>
-    </td>
-  </tr>
-</table>
+I am **Nguyen Thanh An**, Chairman & CEO of **Pho Tue Software Solutions JSC**, building a practical technology ecosystem across **cloud infrastructure**, **AI engineering**, **developer platforms**, **financial/API integrations**, and **open-source enablement** for Vietnam and regional engineering teams.
+
+My work combines executive leadership with hands-on engineering. I focus on turning infrastructure and software capabilities into reusable platforms: cloud services, GPU/AI infrastructure, automation systems, developer tooling, integration SDKs, and community-facing technical assets.
+
+| Executive signal | Portfolio focus |
+|---|---|
+| **Company** | Pho Tue Software Solutions JSC |
+| **Cloud platform** | HiTechCloud — cloud, data center, GPU, managed infrastructure |
+| **AI platform** | HiTechAI VN — AI IDE, Copilot-style tools, local/private AI workflows |
+| **Developer community** | Vietnam API Sharing Community — open APIs, SDKs, banking integration references |
+| **Operating base** | Ho Chi Minh City, Vietnam |
+| **GitHub achievements** | Pair Extraordinaire · Pull Shark · YOLO |
+| **Public activity** | 1,000+ contributions in the last year |
 
 ---
 
-## 🏢 Organizations I Manage
+## Investment Thesis & Strategic Direction
+
+> Build sovereign, automation-first technology platforms that lower the cost of cloud adoption, accelerate AI engineering, and make high-quality integration tooling accessible to Vietnamese developers and enterprises.
+
+| Strategic pillar | Market-facing outcome |
+|---|---|
+| **Cloud infrastructure** | Reliable data center, cloud server, GPU, backup, networking, and self-hosted platform operations. |
+| **AI engineering** | Local/private AI workflows, NVIDIA DGX Spark recipes, inference automation, AI coding assistants, and enterprise AI enablement. |
+| **Developer platforms** | VS Code-style extensions, remote development tools, CI/CD automation, team toolkits, and one-command operational workflows. |
+| **API ecosystems** | Banking/API integration examples, SDKs, FastAPI services, REST collections, documentation, and reusable reference implementations. |
+| **Open-source leverage** | Public repositories that convert internal engineering patterns into transparent, reusable community assets. |
+
+---
+
+## Organizations Under Management
 
 <table>
   <tr>
@@ -78,7 +66,7 @@ My primary focus is building and contributing to platforms in **cloud infrastruc
         <img src="./img/hitechcloud.png" alt="HiTechCloud" width="120" height="120" />
       </a>
       <h3><a href="https://github.com/hitechcloud-vietnam">HiTechCloud</a></h3>
-      <p>Cloud platform, infrastructure automation, GPU server, Proxmox, K3s, self-hosted management tools.</p>
+      <p>Cloud platform, data center operations, GPU servers, Proxmox, Kubernetes/K3s, self-hosted management tooling, and infrastructure automation.</p>
       <p><strong>71 public repositories</strong></p>
     </td>
     <td width="33%" align="center">
@@ -86,7 +74,7 @@ My primary focus is building and contributing to platforms in **cloud infrastruc
         <img src="https://avatars.githubusercontent.com/u/280753426?s=200&v=4" alt="HiTechAI VN" width="120" height="120" />
       </a>
       <h3><a href="https://github.com/HiTechAI-VN">HiTechAI VN</a></h3>
-      <p>AI IDE, Copilot-like extensions, remote development, AI coding workflow and local/private AI platform.</p>
+      <p>AI IDE, Copilot-style extensions, remote development tooling, local/private AI workflows, and applied AI engineering assets.</p>
       <p><strong>17 public repositories</strong></p>
     </td>
     <td width="33%" align="center">
@@ -94,7 +82,7 @@ My primary focus is building and contributing to platforms in **cloud infrastruc
         <img src="https://avatars.githubusercontent.com/u/279568542?s=200&v=4" alt="Vietnam API Sharing Community" width="120" height="120" />
       </a>
       <h3><a href="https://github.com/Viet-Nam-API-Sharing-Community">Vietnam API Sharing Community</a></h3>
-      <p>Community-driven projects focused on **API sharing**, **SDK development**, **banking integrations**, **automation tools**, and **open-source technologies** in Viet Nam.</p>
+      <p>Community-driven API sharing, SDK development, banking integrations, automation utilities, and open-source reference implementations.</p>
       <p><strong>22 public repositories</strong></p>
     </td>
   </tr>
@@ -102,54 +90,54 @@ My primary focus is building and contributing to platforms in **cloud infrastruc
 
 ---
 
-## ⭐ Dự án nổi bật
+## Strategic Project Portfolio
 
-### Cá nhân
+### Personal engineering portfolio
 
-| Project | Description | Tech |
+| Project | Strategic signal | Technology |
 |---|---|---|
-| [`clawspark`](https://github.com/thanhan92-f1/clawspark) | One-click AI agent setup cho NVIDIA DGX Spark, Jetson và RTX hardware; OpenClaw + Ollama, fully local. | Shell · AI · NVIDIA |
-| [`hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | AI tooling/workflow trong hệ sinh thái HiTechCloud/HiTechAI. | AI · Automation |
-| [`hitechbenchmark`](https://github.com/thanhan92-f1/hitechbenchmark) | Benchmark tooling cho hệ thống AI/cloud. | TypeScript |
-| [`vnnic_tldms`](https://github.com/thanhan92-f1/vnnic_tldms) | Công cụ/dự án liên quan domain registry/TLD management. | PHP |
-| [`markitdown`](https://github.com/thanhan92-f1/markitdown) | Tooling xử lý/chuyển đổi tài liệu. | Python |
+| [`clawspark`](https://github.com/thanhan92-f1/clawspark) | One-command AI agent setup for NVIDIA DGX Spark, Jetson, and RTX hardware with OpenClaw and Ollama for fully local AI workflows. | Shell · AI · NVIDIA |
+| [`hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | AI tooling and workflow assets aligned with the HiTechCloud and HiTechAI engineering ecosystem. | TypeScript · AI · Automation |
+| [`hitechbenchmark`](https://github.com/thanhan92-f1/hitechbenchmark) | Benchmark tooling for cloud and AI infrastructure evaluation. | TypeScript |
+| [`vnnic_tldms`](https://github.com/thanhan92-f1/vnnic_tldms) | Domain registry and TLD management tooling. | PHP |
+| [`markitdown`](https://github.com/thanhan92-f1/markitdown) | Document processing and content conversion tooling. | Python |
 
-### HiTechCloud
+### HiTechCloud engineering portfolio
 
-| Project | Description | Tech |
+| Project | Strategic signal | Technology |
 |---|---|---|
-| [`nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | One-click AI app launcher cho NVIDIA DGX GPU, quản lý app AI GPU từ web UI hiện đại. | JavaScript · NVIDIA |
-| [`cloud-server-open-claw-management`](https://github.com/hitechcloud-vietnam/cloud-server-open-claw-management) | Triển khai và quản lý OpenClaw trên cloud server bằng một lệnh, có SSL tự động qua Caddy và REST Management API. | JavaScript · Caddy |
-| [`Proxmox-BackUp-PBS`](https://github.com/hitechcloud-vietnam/Proxmox-BackUp-PBS) | REST API collection đầy đủ cho Proxmox Backup Server. | API · Proxmox |
-| [`Proxmox-Mail-GateWay`](https://github.com/hitechcloud-vietnam/Proxmox-Mail-GateWay) | REST API collection cho Proxmox Mail Gateway: auth, statistics, quarantine, ACL, node/cluster. | API · Proxmox |
-| [`dgxarley`](https://github.com/hitechcloud-vietnam/dgxarley) | Ansible playbooks cho K3s cluster 3 node với NVIDIA DGX Spark phục vụ distributed LLM inference. | Python · Ansible · K3s |
-| [`hitechcloudpanel`](https://github.com/hitechcloud-vietnam/hitechcloudpanel) | Self-hosted server management tool trong hệ sinh thái HiTechCloud. | PHP |
+| [`nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | One-click AI application launcher for NVIDIA DGX/GPU infrastructure with a modern web UI. | JavaScript · NVIDIA |
+| [`cloud-server-open-claw-management`](https://github.com/hitechcloud-vietnam/cloud-server-open-claw-management) | Cloud server OpenClaw deployment and management with automatic SSL via Caddy and REST APIs. | JavaScript · Caddy |
+| [`Proxmox-BackUp-PBS`](https://github.com/hitechcloud-vietnam/Proxmox-BackUp-PBS) | Complete REST API collection for Proxmox Backup Server operations. | API · Proxmox |
+| [`Proxmox-Mail-GateWay`](https://github.com/hitechcloud-vietnam/Proxmox-Mail-GateWay) | Proxmox Mail Gateway API collection for authentication, statistics, quarantine, ACL, node, and cluster operations. | API · Proxmox |
+| [`dgxarley`](https://github.com/hitechcloud-vietnam/dgxarley) | Ansible playbooks for a three-node K3s cluster with NVIDIA DGX Spark for distributed LLM inference. | Python · Ansible · K3s |
+| [`hitechcloudpanel`](https://github.com/hitechcloud-vietnam/hitechcloudpanel) | Self-hosted server management platform within the HiTechCloud ecosystem. | PHP |
 
-### HiTechAI VN
+### HiTechAI VN engineering portfolio
 
-| Project | Description | Tech |
+| Project | Strategic signal | Technology |
 |---|---|---|
-| [`hitechai-copilot-chat`](https://github.com/HiTechAI-VN/hitechai-copilot-chat) | HiTechAI Studio AI — autonomous AI peer programmer. | TypeScript |
-| [`hitechai-copilotstudio`](https://github.com/HiTechAI-VN/hitechai-copilotstudio) | Copilot Studio Extension cho HiTechAI Studio Code. | TypeScript |
-| [`hitechai-studio-code`](https://github.com/HiTechAI-VN/hitechai-studio-code) | HiTechAI/HiTechCloud Studio Code platform. | TypeScript |
-| [`hitechai-team-kit-project`](https://github.com/HiTechAI-VN/hitechai-team-kit-project) | Team Kit cho HiTechAI Studio Code. | TypeScript |
-| [`hitechai-remote-release`](https://github.com/HiTechAI-VN/hitechai-remote-release) | Remote development/release tooling. | Dockerfile |
-| [`deepseek-v4-flash-dual-spark-recipe`](https://github.com/HiTechAI-VN/deepseek-v4-flash-dual-spark-recipe) | Recipe tái lập triển khai DeepSeek-V4-Flash trên dual NVIDIA DGX Spark cluster. | AI · vLLM · NVIDIA |
+| [`hitechai-copilot-chat`](https://github.com/HiTechAI-VN/hitechai-copilot-chat) | HiTechAI Studio AI — autonomous AI peer programmer and applied coding assistant experience. | TypeScript |
+| [`hitechai-copilotstudio`](https://github.com/HiTechAI-VN/hitechai-copilotstudio) | Copilot Studio extension for HiTechAI Studio Code. | TypeScript |
+| [`hitechai-studio-code`](https://github.com/HiTechAI-VN/hitechai-studio-code) | HiTechAI/HiTechCloud Studio Code platform foundation. | TypeScript |
+| [`hitechai-team-kit-project`](https://github.com/HiTechAI-VN/hitechai-team-kit-project) | Team Kit for collaborative HiTechAI Studio Code workflows. | TypeScript |
+| [`hitechai-remote-release`](https://github.com/HiTechAI-VN/hitechai-remote-release) | Remote development and release tooling for distributed engineering workflows. | Dockerfile |
+| [`deepseek-v4-flash-dual-spark-recipe`](https://github.com/HiTechAI-VN/deepseek-v4-flash-dual-spark-recipe) | Reproducible DeepSeek-V4-Flash deployment recipe on a dual NVIDIA DGX Spark cluster. | AI · vLLM · NVIDIA |
 
-### Vietnam API Sharing Community
+### Vietnam API Sharing Community portfolio
 
-| Project | Description | Tech |
+| Project | Strategic signal | Technology |
 |---|---|---|
-| [`acbbank-python`](https://github.com/Viet-Nam-API-Sharing-Community/acbbank-python) | API service cho các chức năng ngân hàng ACB sử dụng FastAPI. | Python · FastAPI |
-| [`Api-Mbbank-Biz`](https://github.com/Viet-Nam-API-Sharing-Community/Api-Mbbank-Biz) | GotoBank — automated banking solution. | Python |
-| [`lpbank`](https://github.com/Viet-Nam-API-Sharing-Community/lpbank) | SDK/API integration cho LPBank. | TypeScript |
-| [`ocb_python`](https://github.com/Viet-Nam-API-Sharing-Community/ocb_python) | Python integration cho OCB. | Python |
-| [`msb_python`](https://github.com/Viet-Nam-API-Sharing-Community/msb_python) | Python integration cho MSB. | Python |
-| [`bank-captcha`](https://github.com/Viet-Nam-API-Sharing-Community/bank-captcha) | Tooling liên quan captcha/API banking. | API · Automation |
+| [`acbbank-python`](https://github.com/Viet-Nam-API-Sharing-Community/acbbank-python) | FastAPI service reference for ACB banking workflows. | Python · FastAPI |
+| [`Api-Mbbank-Biz`](https://github.com/Viet-Nam-API-Sharing-Community/Api-Mbbank-Biz) | GotoBank automated banking integration reference implementation. | Python |
+| [`lpbank`](https://github.com/Viet-Nam-API-Sharing-Community/lpbank) | LPBank SDK and API integration reference. | TypeScript |
+| [`ocb_python`](https://github.com/Viet-Nam-API-Sharing-Community/ocb_python) | OCB banking integration reference for Python developers. | Python |
+| [`msb_python`](https://github.com/Viet-Nam-API-Sharing-Community/msb_python) | MSB banking integration reference for Python developers. | Python |
+| [`bank-captcha`](https://github.com/Viet-Nam-API-Sharing-Community/bank-captcha) | CAPTCHA and automation tooling related to banking/API workflows. | API · Automation |
 
 ---
 
-## 🧠 Tech stack & chuyên môn
+## Generated Dynamic Profile Intelligence
 
 <!-- PROFILE-METRICS:START -->
 
@@ -172,7 +160,18 @@ My primary focus is building and contributing to platforms in **cloud infrastruc
 
 </div>
 
-> Auto-generated from **231 public repositories** across the personal profile and managed organizations. Languages, repository counts and inferred stack are refreshed by GitHub Actions.
+> Auto-generated profile intelligence from **231 public repositories** across the personal profile and managed organizations. Repository signals, language coverage, and inferred capabilities refresh through GitHub Actions.
+
+### Real-time portfolio signals
+
+| Live signal | Value |
+|---|---:|
+| Public repositories monitored | **231** |
+| Managed GitHub scopes | **4** |
+| Detected source languages | **73** |
+| Leading language by code volume | **TypeScript** |
+| Automation model | **Scheduled GitHub Actions + live README widgets** |
+| Update cadence | **Daily metrics refresh + 12-hour contribution snake refresh** |
 
 ### Dynamic language coverage
 
@@ -193,42 +192,42 @@ My primary focus is building and contributing to platforms in **cloud infrastruc
 
 ### Account & organization scan
 
-| Scope | Public repos scanned | Top primary languages |
+| Scope | Public repositories scanned | Top primary languages |
 |---|---:|---|
 | **Nguyen Thanh An** | 121 | Shell, TypeScript, JavaScript, Python, PHP |
 | **HiTechCloud** | 71 | Python, Dockerfile, Shell, JavaScript, Go |
 | **HiTechAI VN** | 17 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 22 | Python, JavaScript, TypeScript, HTML |
 
-### Auto-detected tech stack
+### Auto-detected technology stack
 
-| Auto-detected stack | Signal |
+| Auto-detected capability | Signal |
 |---|---|
-| **Languages & Backend** | TypeScript · Node.js · PHP · Laravel · Python · FastAPI · SDK · JavaScript · Go |
-| **Cloud / DevOps / Infra** | Linux · Provisioning · NVIDIA GPU |
-| **AI / Automation / Tooling** | VS Code Extension · Developer Tools · Automation · CLI · One-click Setup · AI Engineering |
-| **API / Community** | Updating from repository metadata |
+| **Languages & backend** | TypeScript · Node.js · PHP · Laravel · Python · FastAPI · SDK · JavaScript · Go |
+| **Cloud / DevOps / infrastructure** | Linux · provisioning · NVIDIA GPU · Proxmox · Kubernetes/K3s · Docker |
+| **AI / automation / tooling** | VS Code Extension · developer tools · automation · CLI · one-command setup · AI engineering |
+| **API / community** | Banking API · REST collections · integration SDKs · technical documentation |
 
 ### High-signal repositories
 
 | Repository | Main signal |
 |---|---|
-| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 14 · ⑂ 4 |
-| [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · ai · ai-agent · ai-tools · ⭐ 4 |
-| [`thanhan92-f1/nemoclaw-openclaw-sandbox`](https://github.com/thanhan92-f1/nemoclaw-openclaw-sandbox) | Shell · ai · ai-agent · nemoclaw · ⭐ 5 |
-| [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · ⭐ 6 |
-| [`thanhan92-f1/nvidia-570-proxmox-pve9`](https://github.com/thanhan92-f1/nvidia-570-proxmox-pve9) | Shell · ⭐ 2 |
-| [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
-| [`thanhan92-f1/coinguonlichsu`](https://github.com/thanhan92-f1/coinguonlichsu) | JavaScript · ⭐ 1 |
-| [`thanhan92-f1/easydcim-colocation-for-hostbill`](https://github.com/thanhan92-f1/easydcim-colocation-for-hostbill) | ⑂ 2 |
+| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · AI agent setup · NVIDIA DGX/Jetson/RTX · local AI |
+| [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · NVIDIA AI Hub · GPU application orchestration |
+| [`thanhan92-f1/nemoclaw-openclaw-sandbox`](https://github.com/thanhan92-f1/nemoclaw-openclaw-sandbox) | Shell · AI agent sandbox · OpenClaw experimentation |
+| [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · AI tooling · automation |
+| [`hitechcloud-vietnam/dgxarley`](https://github.com/hitechcloud-vietnam/dgxarley) | Python · Ansible · K3s · NVIDIA DGX Spark |
+| [`HiTechAI-VN/hitechai-copilot-chat`](https://github.com/HiTechAI-VN/hitechai-copilot-chat) | TypeScript · autonomous AI peer programmer |
+| [`Viet-Nam-API-Sharing-Community/acbbank-python`](https://github.com/Viet-Nam-API-Sharing-Community/acbbank-python) | Python · FastAPI · banking API reference |
+| [`hitechcloud-vietnam/hitechcloudpanel`](https://github.com/hitechcloud-vietnam/hitechcloudpanel) | PHP · self-hosted cloud/server management |
 
-<sub>Last metrics refresh: GitHub Actions scheduled update · run #1. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled update. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
 ---
 
-## 📊 GitHub analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -241,7 +240,7 @@ My primary focus is building and contributing to platforms in **cloud infrastruc
 
 ---
 
-## 🔥 Profile contributions
+## Profile Contributions
 
 <div align="center">
 
@@ -261,21 +260,19 @@ My primary focus is building and contributing to platforms in **cloud infrastruc
 
 </div>
 
-### Contribution focus
+### Contribution operating model
 
 | Area | Contribution direction |
 |---|---|
-| ☁️ Cloud & Infrastructure | HiTechCloud platform, Proxmox/K3s/GPU server automation, self-hosted management tools |
-| 🤖 AI Engineering | Local/private AI workflows, AI IDE extensions, NVIDIA DGX Spark recipes, inference automation |
-| 🛠️ Developer Tools | VS Code-like tooling, CLI/script automation, CI/CD, remote development workflow |
-| 🔌 API & Integration | Banking APIs, FastAPI services, SDKs, REST collections, Vietnamese API documentation |
-| 🇻🇳 Community | Open-source examples, reusable templates, practical technical resources for Vietnam developers |
-
-> Goal: keep building useful repositories, practical automation, clean documentation and community-driven open-source resources.
+| **Cloud & infrastructure** | HiTechCloud platform assets, Proxmox/K3s/GPU automation, self-hosted management tools, and operational runbooks. |
+| **AI engineering** | Local/private AI workflows, AI IDE extensions, NVIDIA DGX Spark recipes, inference automation, and applied developer AI. |
+| **Developer tools** | VS Code-style tooling, CLI/script automation, CI/CD patterns, remote development workflows, and team enablement kits. |
+| **API & integration** | Banking APIs, FastAPI services, SDKs, REST collections, reusable examples, and implementation documentation. |
+| **Community leverage** | Open-source templates, technical references, implementation notes, and practical engineering assets for Vietnam developers. |
 
 ---
 
-## 🗺️ Hệ sinh thái
+## Ecosystem Map
 
 ```mermaid
 mindmap
@@ -283,14 +280,15 @@ mindmap
     Pho Tue Software Solutions JSC
       HiTechCloud
         Cloud Platform
-        Proxmox & GPU Servers
-        K3s / Kubernetes
-        Self-hosted Management
+        Data Center Services
+        GPU Infrastructure
+        Proxmox and Kubernetes
+        Managed Operations
       HiTechAI VN
         AI IDE
         Copilot Extensions
         Local AI Workflows
-        NVIDIA DGX Spark
+        NVIDIA DGX Spark Recipes
       HiTechPay
         Payment Integration
         Fintech API
@@ -301,35 +299,35 @@ mindmap
       Banking SDKs
       FastAPI Services
       TypeScript Packages
-      Open-source API Docs
+      Open API Documentation
 ```
 
 ---
 
-## 🎯 Giá trị mình theo đuổi
+## Operating Principles
 
-- **Build in public:** chia sẻ công cụ, tài liệu và kinh nghiệm triển khai thực tế.
-- **Automation-first:** tự động hóa hạ tầng, vận hành, API và quy trình phát triển.
-- **Local/private AI:** ưu tiên AI chạy được tại chỗ, kiểm soát dữ liệu và tối ưu chi phí.
-- **Developer experience:** công cụ phải dễ dùng, có tài liệu, có một-lệnh-chạy-được.
-- **Vietnam tech community:** đóng góp tài nguyên kỹ thuật cho cộng đồng Việt Nam.
+- **Build in public:** transform practical engineering work into reusable repositories, documentation, and implementation references.
+- **Automation-first:** automate infrastructure, operations, APIs, releases, and developer workflows wherever repeatability matters.
+- **Local/private AI:** prioritize data control, deployment sovereignty, cost efficiency, and enterprise-ready AI operations.
+- **Developer experience:** ship tools that are documented, reproducible, and easy to run with minimal operational friction.
+- **Vietnam technology ecosystem:** contribute durable technical assets for local developers, startups, enterprises, and communities.
 
 ---
 
-## 🤝 Kết nối
+## Connect
 
 <div align="center">
 
-| Kênh | Liên kết |
+| Channel | Link |
 |---|---|
-| Website công ty | <https://photuesoftware.com/> |
-| HiTechCloud Portal | <https://my.hitechcloud.vn/> |
+| Company website | <https://photuesoftware.com/> |
+| HiTechCloud customer portal | <https://my.hitechcloud.vn/> |
 | GitHub | <https://github.com/thanhan92-f1> |
 | LinkedIn | <https://www.linkedin.com/in/nguyenthanhan92-f1/> |
 | Facebook | <https://www.facebook.com/Anthanh78> |
 | X / Twitter | <https://x.com/anthanh92f1> |
-| HiTechCloud Org | <https://github.com/hitechcloud-vietnam> |
-| HiTechAI VN Org | <https://github.com/HiTechAI-VN> |
+| HiTechCloud organization | <https://github.com/hitechcloud-vietnam> |
+| HiTechAI VN organization | <https://github.com/HiTechAI-VN> |
 | Vietnam API Sharing Community | <https://github.com/Viet-Nam-API-Sharing-Community> |
 
 </div>
@@ -338,7 +336,7 @@ mindmap
 
 <div align="center">
 
-### “Build practical technology, automate the boring parts, and share value back to the community.”
+### Build practical technology, automate the critical path, and return value to the engineering community.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:22C55E&height=120&section=footer" alt="Footer wave" width="100%" />
 
