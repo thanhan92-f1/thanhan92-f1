@@ -163,14 +163,14 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **232 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **233 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **232** |
-| Active source repositories | **143** |
+| Public repositories monitored | **233** |
+| Active source repositories | **144** |
 | Detected source languages | **73** |
 | Aggregate public stars | **38** |
 | Aggregate public forks | **10** |
@@ -201,7 +201,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | **Nguyen Thanh An** | 121 | 30 | 6 | Shell, TypeScript, JavaScript, Python, PHP |
 | **HiTechCloud** | 72 | 7 | 4 | Python, Dockerfile, Shell, JavaScript, Go |
 | **HiTechAI VN** | 17 | 1 | 0 | TypeScript, C++, Dockerfile |
-| **Vietnam API Sharing Community** | 22 | 0 | 0 | Python, JavaScript, TypeScript, HTML |
+| **Vietnam API Sharing Community** | 23 | 0 | 0 | Python, JavaScript, TypeScript, HTML |
 
 ### Auto-detected tech stack
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`thanhan92-f1/coinguonlichsu`](https://github.com/thanhan92-f1/coinguonlichsu) | JavaScript · ⭐ 1 |
 | [`thanhan92-f1/easydcim-colocation-for-hostbill`](https://github.com/thanhan92-f1/easydcim-colocation-for-hostbill) | ⑂ 2 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-26 22:24 UTC · run #3. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-26 22:57 UTC · run #4. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
