@@ -160,18 +160,19 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **231 public repositories** across the personal profile and managed organizations. Repository signals, language coverage, and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **232 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **231** |
-| Managed GitHub scopes | **4** |
+| Public repositories monitored | **232** |
+| Active source repositories | **143** |
 | Detected source languages | **73** |
+| Aggregate public stars | **38** |
+| Aggregate public forks | **10** |
 | Leading language by code volume | **TypeScript** |
-| Automation model | **Scheduled GitHub Actions + live README widgets** |
-| Update cadence | **Daily metrics refresh + 12-hour contribution snake refresh** |
+| Most recent public repository update | **2026-05-26** |
 
 ### Dynamic language coverage
 
@@ -192,36 +193,36 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 ### Account & organization scan
 
-| Scope | Public repositories scanned | Top primary languages |
-|---|---:|---|
-| **Nguyen Thanh An** | 121 | Shell, TypeScript, JavaScript, Python, PHP |
-| **HiTechCloud** | 71 | Python, Dockerfile, Shell, JavaScript, Go |
-| **HiTechAI VN** | 17 | TypeScript, C++, Dockerfile |
-| **Vietnam API Sharing Community** | 22 | Python, JavaScript, TypeScript, HTML |
+| Scope | Public repos scanned | Stars | Forks | Top primary languages |
+|---|---:|---:|---:|---|
+| **Nguyen Thanh An** | 121 | 30 | 6 | Shell, TypeScript, JavaScript, Python, PHP |
+| **HiTechCloud** | 72 | 7 | 4 | Python, Dockerfile, Shell, JavaScript, Go |
+| **HiTechAI VN** | 17 | 1 | 0 | TypeScript, C++, Dockerfile |
+| **Vietnam API Sharing Community** | 22 | 0 | 0 | Python, JavaScript, TypeScript, HTML |
 
-### Auto-detected technology stack
+### Auto-detected tech stack
 
-| Auto-detected capability | Signal |
+| Auto-detected stack | Signal |
 |---|---|
-| **Languages & backend** | TypeScript · Node.js · PHP · Laravel · Python · FastAPI · SDK · JavaScript · Go |
-| **Cloud / DevOps / infrastructure** | Linux · provisioning · NVIDIA GPU · Proxmox · Kubernetes/K3s · Docker |
-| **AI / automation / tooling** | VS Code Extension · developer tools · automation · CLI · one-command setup · AI engineering |
-| **API / community** | Banking API · REST collections · integration SDKs · technical documentation |
+| **Languages & Backend** | TypeScript · Node.js · PHP · Laravel · Python · FastAPI · SDK · JavaScript · Go |
+| **Cloud / DevOps / Infra** | Linux · Provisioning · NVIDIA GPU |
+| **AI / Automation / Tooling** | VS Code Extension · Developer Tools · Automation · CLI · One-click Setup · AI Engineering |
+| **API / Community** | Updating from repository metadata |
 
 ### High-signal repositories
 
 | Repository | Main signal |
 |---|---|
-| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · AI agent setup · NVIDIA DGX/Jetson/RTX · local AI |
-| [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · NVIDIA AI Hub · GPU application orchestration |
-| [`thanhan92-f1/nemoclaw-openclaw-sandbox`](https://github.com/thanhan92-f1/nemoclaw-openclaw-sandbox) | Shell · AI agent sandbox · OpenClaw experimentation |
-| [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · AI tooling · automation |
-| [`hitechcloud-vietnam/dgxarley`](https://github.com/hitechcloud-vietnam/dgxarley) | Python · Ansible · K3s · NVIDIA DGX Spark |
-| [`HiTechAI-VN/hitechai-copilot-chat`](https://github.com/HiTechAI-VN/hitechai-copilot-chat) | TypeScript · autonomous AI peer programmer |
-| [`Viet-Nam-API-Sharing-Community/acbbank-python`](https://github.com/Viet-Nam-API-Sharing-Community/acbbank-python) | Python · FastAPI · banking API reference |
-| [`hitechcloud-vietnam/hitechcloudpanel`](https://github.com/hitechcloud-vietnam/hitechcloudpanel) | PHP · self-hosted cloud/server management |
+| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 14 · ⑂ 4 |
+| [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · ai · ai-agent · ai-tools · ⭐ 4 |
+| [`thanhan92-f1/nemoclaw-openclaw-sandbox`](https://github.com/thanhan92-f1/nemoclaw-openclaw-sandbox) | Shell · ai · ai-agent · nemoclaw · ⭐ 5 |
+| [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · ⭐ 6 |
+| [`thanhan92-f1/nvidia-570-proxmox-pve9`](https://github.com/thanhan92-f1/nvidia-570-proxmox-pve9) | Shell · ⭐ 2 |
+| [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
+| [`thanhan92-f1/coinguonlichsu`](https://github.com/thanhan92-f1/coinguonlichsu) | JavaScript · ⭐ 1 |
+| [`thanhan92-f1/easydcim-colocation-for-hostbill`](https://github.com/thanhan92-f1/easydcim-colocation-for-hostbill) | ⑂ 2 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled update. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-26 22:24 UTC · run #3. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
