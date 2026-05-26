@@ -206,6 +206,36 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 
 ---
 
+## 🔥 Profile contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhan92-f1/thanhan92-f1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhan92-f1/thanhan92-f1/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/thanhan92-f1/thanhan92-f1/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanhan92-f1&theme=tokyo-night&hide_border=true&area=true&custom_title=Nguyen%20Thanh%20An%20Contribution%20Graph" alt="Nguyen Thanh An contribution graph" width="100%" />
+
+</div>
+
+### Contribution focus
+
+| Area | Contribution direction |
+|---|---|
+| ☁️ Cloud & Infrastructure | HiTechCloud platform, Proxmox/K3s/GPU server automation, self-hosted management tools |
+| 🤖 AI Engineering | Local/private AI workflows, AI IDE extensions, NVIDIA DGX Spark recipes, inference automation |
+| 🛠️ Developer Tools | VS Code-like tooling, CLI/script automation, CI/CD, remote development workflow |
+| 🔌 API & Integration | Banking APIs, FastAPI services, SDKs, REST collections, Vietnamese API documentation |
+| 🇻🇳 Community | Open-source examples, reusable templates, practical technical resources for Vietnam developers |
+
+> Goal: keep building useful repositories, practical automation, clean documentation and community-driven open-source resources.
+
+---
+
 ## 🗺️ Hệ sinh thái
 
 ```mermaid
