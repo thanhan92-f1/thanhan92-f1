@@ -2,7 +2,7 @@
 
 <img src="./img/profile-banner.svg" alt="Nguyen Thanh An - Cloud, AI, DevTools, Open Source" width="100%" />
 
-# Xin chào, mình là Nguyễn Thanh An 👋
+# Hello, my name is Nguyen Thanh An.👋
 
 ### Chairman & CEO — Pho Tue Software Solutions JSC · Cloud / AI / DevTools / Open Source Builder
 
@@ -22,14 +22,14 @@
 </p>
 
 </div>
-
+ 
 ---
 
 ## 🚀 Tổng quan
 
-Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Software Solutions JSC**, tập trung xây dựng hệ sinh thái công nghệ gồm **HiTechCloud**, **HiTechAI**, **HiTechPay**, **HiTechCoder** và **HMI IDC**.
+I am **Nguyen Thanh An** — Founder/Chairman & CEO at **Pho Tue Software Solutions JSC**, focusing on building a technology ecosystem including **HiTechCloud**, **HiTechAI**, **HiTechPay**, **HiTechCoder** and **HMI IDC**.
 
-Định hướng chính của mình là phát triển các nền tảng **cloud infrastructure**, **AI engineering**, **developer tools**, **automation**, **API integration** và các dự án **open-source** phục vụ cộng đồng kỹ sư Việt Nam.
+My primary focus is building and contributing to platforms in **cloud infrastructure**, **AI engineering**, **developer tools**, **automation**, **API integrations**, and **open-source** projects that empower and support the Vietnamese engineering community.
 
 - 🏢 **Company:** Pho Tue Software Solutions JSC
 - ☁️ **Cloud brand:** HiTechCloud
@@ -42,34 +42,34 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 
 ---
 
-## 🧩 Mình đang xây dựng gì?
+## 🧩 What Am I Building?
 
 <table>
   <tr>
     <td width="50%">
       <h3>☁️ Cloud Infrastructure</h3>
-      <p>Hệ thống quản trị cloud, self-hosted platform, Proxmox, Kubernetes/K3s, GPU server, automation agent và cloud management API.</p>
+      <p>Cloud infrastructure management systems, **self-hosted platforms**, **Proxmox**, **Kubernetes/K3s**, **GPU servers**, **automation agents**, and **cloud management APIs**.</p>
     </td>
     <td width="50%">
       <h3>🤖 AI Engineering</h3>
-      <p>Công cụ AI local/private, NVIDIA DGX Spark, Ollama, inference automation, AI IDE extension và workflow tăng tốc lập trình.</p>
+      <p>Local/private AI tools, **NVIDIA DGX Spark**, **Ollama**, **inference automation**, **AI IDE extensions**, and developer productivity workflows for accelerated software engineering.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🛠️ Developer Tools</h3>
-      <p>Extension, CLI, automation script, team kit, remote development, CI/CD, package tooling và quy trình phát triển sản phẩm.</p>
+      <p>Extensions, **CLI tools**, **automation scripts**, **team toolkits**, **remote development environments**, **CI/CD pipelines**, **package tooling**, and modern product development workflows.</p>
     </td>
     <td width="50%">
       <h3>🔌 API & Integration</h3>
-      <p>Cộng đồng chia sẻ API, banking integration, REST collection, FastAPI service, SDK Python/TypeScript và tài liệu tích hợp.</p>
+      <p>API sharing communities, **banking integrations**, **REST API collections**, **FastAPI services**, **Python/TypeScript SDKs**, and developer integration documentation.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏢 Các tổ chức mình quản lý
+## 🏢 Organizations I Manage
 
 <table>
   <tr>
@@ -94,7 +94,7 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
         <img src="https://avatars.githubusercontent.com/u/279568542?s=200&v=4" alt="Vietnam API Sharing Community" width="120" height="120" />
       </a>
       <h3><a href="https://github.com/Viet-Nam-API-Sharing-Community">Vietnam API Sharing Community</a></h3>
-      <p>Cộng đồng chia sẻ API, SDK, banking integration, automation tools và công nghệ open-source tại Việt Nam.</p>
+      <p>Community-driven projects focused on **API sharing**, **SDK development**, **banking integrations**, **automation tools**, and **open-source technologies** in Viet Nam.</p>
       <p><strong>22 public repositories</strong></p>
     </td>
   </tr>
@@ -106,7 +106,7 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 
 ### Cá nhân
 
-| Project | Mô tả | Tech |
+| Project | Description | Tech |
 |---|---|---|
 | [`clawspark`](https://github.com/thanhan92-f1/clawspark) | One-click AI agent setup cho NVIDIA DGX Spark, Jetson và RTX hardware; OpenClaw + Ollama, fully local. | Shell · AI · NVIDIA |
 | [`hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | AI tooling/workflow trong hệ sinh thái HiTechCloud/HiTechAI. | AI · Automation |
@@ -116,7 +116,7 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 
 ### HiTechCloud
 
-| Project | Mô tả | Tech |
+| Project | Description | Tech |
 |---|---|---|
 | [`nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | One-click AI app launcher cho NVIDIA DGX GPU, quản lý app AI GPU từ web UI hiện đại. | JavaScript · NVIDIA |
 | [`cloud-server-open-claw-management`](https://github.com/hitechcloud-vietnam/cloud-server-open-claw-management) | Triển khai và quản lý OpenClaw trên cloud server bằng một lệnh, có SSL tự động qua Caddy và REST Management API. | JavaScript · Caddy |
@@ -127,7 +127,7 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 
 ### HiTechAI VN
 
-| Project | Mô tả | Tech |
+| Project | Description | Tech |
 |---|---|---|
 | [`hitechai-copilot-chat`](https://github.com/HiTechAI-VN/hitechai-copilot-chat) | HiTechAI Studio AI — autonomous AI peer programmer. | TypeScript |
 | [`hitechai-copilotstudio`](https://github.com/HiTechAI-VN/hitechai-copilotstudio) | Copilot Studio Extension cho HiTechAI Studio Code. | TypeScript |
@@ -138,7 +138,7 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 
 ### Vietnam API Sharing Community
 
-| Project | Mô tả | Tech |
+| Project | Description | Tech |
 |---|---|---|
 | [`acbbank-python`](https://github.com/Viet-Nam-API-Sharing-Community/acbbank-python) | API service cho các chức năng ngân hàng ACB sử dụng FastAPI. | Python · FastAPI |
 | [`Api-Mbbank-Biz`](https://github.com/Viet-Nam-API-Sharing-Community/Api-Mbbank-Biz) | GotoBank — automated banking solution. | Python |
@@ -253,7 +253,7 @@ Mình là **Nguyễn Thanh An** — Founder/Chairman & CEO tại **Pho Tue Softw
 
 <br />
 
-<sub>Contribution Snake tự động cập nhật 12 giờ/lần bằng GitHub Actions.</sub>
+<sub>Contribution Snake automatically updates every 12 hours using GitHub Actions.</sub>
 
 <br /><br />
 
