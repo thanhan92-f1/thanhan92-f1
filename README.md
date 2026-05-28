@@ -154,8 +154,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-64748B?style=for-the-badge&logo=groovy&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -163,45 +163,45 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **233 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **239 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **233** |
-| Active source repositories | **144** |
+| Public repositories monitored | **239** |
+| Active source repositories | **149** |
 | Detected source languages | **73** |
 | Aggregate public stars | **38** |
 | Aggregate public forks | **10** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-05-26** |
+| Most recent public repository update | **2026-05-27** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **TypeScript** | `█████████░░░░░░░░░░░` | **47.1%** |
-| **PHP** | `████░░░░░░░░░░░░░░░░` | **18.8%** |
-| **Python** | `██░░░░░░░░░░░░░░░░░░` | **11.2%** |
-| **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **8.9%** |
+| **TypeScript** | `██████████░░░░░░░░░░` | **47.7%** |
+| **PHP** | `████░░░░░░░░░░░░░░░░` | **18.5%** |
+| **Python** | `██░░░░░░░░░░░░░░░░░░` | **11.0%** |
+| **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **8.8%** |
 | **C++** | `█░░░░░░░░░░░░░░░░░░░` | **2.3%** |
 | **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.9%** |
 | **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.6%** |
-| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.4%** |
+| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.3%** |
+| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.3%** |
 | **C#** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
-| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
-| **Groovy** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
+| **Groovy** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
 | **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.7%** |
 
 ### Account & organization scan
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 121 | 30 | 6 | Shell, TypeScript, JavaScript, Python, PHP |
+| **Nguyen Thanh An** | 125 | 30 | 6 | Shell, TypeScript, JavaScript, Python, PHP |
 | **HiTechCloud** | 72 | 7 | 4 | Python, Dockerfile, Shell, JavaScript, Go |
-| **HiTechAI VN** | 17 | 1 | 0 | TypeScript, C++, Dockerfile |
-| **Vietnam API Sharing Community** | 23 | 0 | 0 | Python, JavaScript, TypeScript, HTML |
+| **HiTechAI VN** | 18 | 1 | 0 | TypeScript, C++, Dockerfile |
+| **Vietnam API Sharing Community** | 24 | 0 | 0 | Python, JavaScript, TypeScript, HTML |
 
 ### Auto-detected tech stack
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`thanhan92-f1/coinguonlichsu`](https://github.com/thanhan92-f1/coinguonlichsu) | JavaScript · ⭐ 1 |
 | [`thanhan92-f1/easydcim-colocation-for-hostbill`](https://github.com/thanhan92-f1/easydcim-colocation-for-hostbill) | ⑂ 2 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-27 01:25 UTC · run #5. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-28 01:17 UTC · run #6. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
