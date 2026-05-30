@@ -175,7 +175,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Aggregate public stars | **38** |
 | Aggregate public forks | **10** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-05-28** |
+| Most recent public repository update | **2026-05-29** |
 
 ### Dynamic language coverage
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`thanhan92-f1/coinguonlichsu`](https://github.com/thanhan92-f1/coinguonlichsu) | JavaScript · ⭐ 1 |
 | [`thanhan92-f1/easydcim-colocation-for-hostbill`](https://github.com/thanhan92-f1/easydcim-colocation-for-hostbill) | ⑂ 2 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-29 01:24 UTC · run #7. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-30 01:20 UTC · run #8. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
