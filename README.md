@@ -163,26 +163,26 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **246 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **248 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **246** |
-| Active source repositories | **156** |
+| Public repositories monitored | **248** |
+| Active source repositories | **158** |
 | Detected source languages | **73** |
-| Aggregate public stars | **38** |
+| Aggregate public stars | **39** |
 | Aggregate public forks | **10** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-05-29** |
+| Most recent public repository update | **2026-05-30** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
 | **TypeScript** | `██████████░░░░░░░░░░` | **47.7%** |
-| **PHP** | `████░░░░░░░░░░░░░░░░` | **18.4%** |
+| **PHP** | `████░░░░░░░░░░░░░░░░` | **18.5%** |
 | **Python** | `██░░░░░░░░░░░░░░░░░░` | **11.0%** |
 | **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **8.8%** |
 | **C++** | `█░░░░░░░░░░░░░░░░░░░` | **2.3%** |
@@ -198,8 +198,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 131 | 30 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 73 | 7 | 4 | Python, Dockerfile, Shell, JavaScript, Go |
+| **Nguyen Thanh An** | 131 | 31 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
+| **HiTechCloud** | 75 | 7 | 4 | Python, Dockerfile, Shell, PHP, JavaScript |
 | **HiTechAI VN** | 18 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 24 | 0 | 0 | Python, JavaScript, TypeScript, HTML |
 
@@ -222,10 +222,10 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · ⭐ 6 |
 | [`thanhan92-f1/nvidia-570-proxmox-pve9`](https://github.com/thanhan92-f1/nvidia-570-proxmox-pve9) | Shell · ⭐ 2 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
+| [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 | [`thanhan92-f1/coinguonlichsu`](https://github.com/thanhan92-f1/coinguonlichsu) | JavaScript · ⭐ 1 |
-| [`thanhan92-f1/easydcim-colocation-for-hostbill`](https://github.com/thanhan92-f1/easydcim-colocation-for-hostbill) | ⑂ 2 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-30 01:20 UTC · run #8. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-05-31 01:28 UTC · run #9. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
