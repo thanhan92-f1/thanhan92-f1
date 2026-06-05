@@ -175,7 +175,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Aggregate public stars | **40** |
 | Aggregate public forks | **10** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-06-03** |
+| Most recent public repository update | **2026-06-04** |
 
 ### Dynamic language coverage
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`thanhan92-f1/ubuntu-server-security`](https://github.com/thanhan92-f1/ubuntu-server-security) | Shell · ⭐ 1 |
 | [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-04 01:36 UTC · run #13. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-05 01:26 UTC · run #14. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
