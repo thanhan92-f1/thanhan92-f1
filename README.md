@@ -163,14 +163,14 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **250 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **254 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **250** |
-| Active source repositories | **159** |
+| Public repositories monitored | **254** |
+| Active source repositories | **162** |
 | Detected source languages | **73** |
 | Aggregate public stars | **40** |
 | Aggregate public forks | **10** |
@@ -198,8 +198,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 132 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 76 | 7 | 4 | Python, Dockerfile, Shell, PHP, JavaScript |
+| **Nguyen Thanh An** | 133 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
+| **HiTechCloud** | 79 | 7 | 4 | Python, Dockerfile, Shell, PHP, JavaScript |
 | **HiTechAI VN** | 18 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 24 | 0 | 0 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`thanhan92-f1/ubuntu-server-security`](https://github.com/thanhan92-f1/ubuntu-server-security) | Shell · ⭐ 1 |
 | [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-07 01:29 UTC · run #16. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-08 01:30 UTC · run #17. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
