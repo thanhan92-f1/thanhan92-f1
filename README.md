@@ -163,19 +163,19 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **254 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **255 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **254** |
-| Active source repositories | **162** |
+| Public repositories monitored | **255** |
+| Active source repositories | **163** |
 | Detected source languages | **73** |
-| Aggregate public stars | **40** |
+| Aggregate public stars | **41** |
 | Aggregate public forks | **10** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-06-09** |
+| Most recent public repository update | **2026-06-11** |
 
 ### Dynamic language coverage
 
@@ -199,7 +199,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
 | **Nguyen Thanh An** | 133 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 79 | 7 | 4 | Python, Dockerfile, Shell, PHP, JavaScript |
+| **HiTechCloud** | 80 | 8 | 4 | Python, Dockerfile, Shell, PHP, JavaScript |
 | **HiTechAI VN** | 18 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 24 | 0 | 0 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`thanhan92-f1/ubuntu-server-security`](https://github.com/thanhan92-f1/ubuntu-server-security) | Shell · ⭐ 1 |
 | [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-10 01:25 UTC · run #19. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-11 01:28 UTC · run #20. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
