@@ -170,12 +170,12 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Live signal | Value |
 |---|---:|
 | Public repositories monitored | **255** |
-| Active source repositories | **163** |
+| Active source repositories | **164** |
 | Detected source languages | **73** |
 | Aggregate public stars | **42** |
 | Aggregate public forks | **10** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-06-18** |
+| Most recent public repository update | **2026-06-19** |
 
 ### Dynamic language coverage
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 | [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-19 01:36 UTC · run #28. Detected 73 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-20 01:25 UTC · run #29. Detected 73 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
