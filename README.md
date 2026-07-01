@@ -163,28 +163,28 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **268 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **271 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **268** |
+| Public repositories monitored | **271** |
 | Active source repositories | **177** |
-| Detected source languages | **74** |
+| Detected source languages | **75** |
 | Aggregate public stars | **42** |
-| Aggregate public forks | **10** |
+| Aggregate public forks | **9** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-06-29** |
+| Most recent public repository update | **2026-06-30** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **TypeScript** | `█████████░░░░░░░░░░░` | **47.2%** |
-| **PHP** | `████░░░░░░░░░░░░░░░░` | **18.3%** |
-| **Python** | `██░░░░░░░░░░░░░░░░░░` | **11.6%** |
-| **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **8.8%** |
+| **TypeScript** | `█████████░░░░░░░░░░░` | **47.0%** |
+| **PHP** | `████░░░░░░░░░░░░░░░░` | **18.2%** |
+| **Python** | `██░░░░░░░░░░░░░░░░░░` | **11.9%** |
+| **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **8.7%** |
 | **C++** | `█░░░░░░░░░░░░░░░░░░░` | **2.3%** |
 | **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.9%** |
 | **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.6%** |
@@ -192,13 +192,13 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.3%** |
 | **C#** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
 | **Groovy** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
-| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.7%** |
+| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
 
 ### Account & organization scan
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 134 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
+| **Nguyen Thanh An** | 137 | 32 | 5 | Shell, Python, TypeScript, JavaScript, PHP |
 | **HiTechCloud** | 88 | 9 | 4 | Python, Dockerfile, Shell, PHP, JavaScript |
 | **HiTechAI VN** | 18 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 0 | Python, JavaScript, TypeScript, HTML |
@@ -216,7 +216,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Repository | Main signal |
 |---|---|
-| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 13 · ⑂ 4 |
+| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 13 · ⑂ 3 |
 | [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · ai · ai-agent · ai-tools · ⭐ 4 |
 | [`thanhan92-f1/nemoclaw-openclaw-sandbox`](https://github.com/thanhan92-f1/nemoclaw-openclaw-sandbox) | Shell · ai · ai-agent · nemoclaw · ⭐ 5 |
 | [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · ⭐ 6 |
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 | [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-06-30 01:22 UTC · run #39. Detected 74 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-01 01:28 UTC · run #40. Detected 75 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
