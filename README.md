@@ -172,10 +172,10 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Public repositories monitored | **275** |
 | Active source repositories | **181** |
 | Detected source languages | **75** |
-| Aggregate public stars | **44** |
+| Aggregate public stars | **43** |
 | Aggregate public forks | **11** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-07-11** |
+| Most recent public repository update | **2026-07-12** |
 
 ### Dynamic language coverage
 
@@ -198,7 +198,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 137 | 34 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
+| **Nguyen Thanh An** | 137 | 33 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
 | **HiTechCloud** | 92 | 9 | 4 | Python, PHP, Dockerfile, Shell, JavaScript |
 | **HiTechAI VN** | 18 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 | [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-12 01:00 UTC · run #51. Detected 75 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-13 01:00 UTC · run #52. Detected 75 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
