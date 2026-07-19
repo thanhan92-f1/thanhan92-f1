@@ -172,10 +172,10 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Public repositories monitored | **280** |
 | Active source repositories | **186** |
 | Detected source languages | **75** |
-| Aggregate public stars | **43** |
+| Aggregate public stars | **42** |
 | Aggregate public forks | **11** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-07-17** |
+| Most recent public repository update | **2026-07-18** |
 
 ### Dynamic language coverage
 
@@ -198,7 +198,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 140 | 33 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
+| **Nguyen Thanh An** | 140 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
 | **HiTechCloud** | 94 | 9 | 4 | Python, PHP, Dockerfile, Shell, Go |
 | **HiTechAI VN** | 18 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
@@ -216,7 +216,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Repository | Main signal |
 |---|---|
-| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 13 · ⑂ 3 |
+| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 12 · ⑂ 3 |
 | [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · ai · ai-agent · ai-tools · ⭐ 4 |
 | [`thanhan92-f1/nemoclaw-openclaw-sandbox`](https://github.com/thanhan92-f1/nemoclaw-openclaw-sandbox) | Shell · ai · ai-agent · nemoclaw · ⭐ 5 |
 | [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · ⭐ 6 |
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 | [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-18 00:53 UTC · run #57. Detected 75 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-19 00:58 UTC · run #58. Detected 75 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
