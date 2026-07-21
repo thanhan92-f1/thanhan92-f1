@@ -146,61 +146,61 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 <div align="center">
 
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-64748B?style=for-the-badge&logo=groovy&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-F7523F?style=for-the-badge&logo=blade&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-64748B?style=for-the-badge&logo=groovy&logoColor=white)
+![TSQL](https://img.shields.io/badge/TSQL-64748B?style=for-the-badge&logo=tsql&logoColor=white)
 
 </div>
 
-> Auto-generated profile intelligence from **280 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **288 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **280** |
-| Active source repositories | **186** |
-| Detected source languages | **75** |
+| Public repositories monitored | **288** |
+| Active source repositories | **189** |
+| Detected source languages | **88** |
 | Aggregate public stars | **42** |
 | Aggregate public forks | **11** |
-| Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-07-18** |
+| Leading language by code volume | **C#** |
+| Most recent public repository update | **2026-07-21** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **TypeScript** | `█████████░░░░░░░░░░░` | **47.0%** |
-| **PHP** | `████░░░░░░░░░░░░░░░░` | **18.2%** |
-| **Python** | `██░░░░░░░░░░░░░░░░░░` | **11.9%** |
-| **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **8.7%** |
-| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **2.3%** |
-| **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.9%** |
-| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.6%** |
-| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.3%** |
-| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.3%** |
-| **C#** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
-| **Groovy** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
-| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
+| **C#** | `██████░░░░░░░░░░░░░░` | **32.0%** |
+| **TypeScript** | `██████░░░░░░░░░░░░░░` | **30.2%** |
+| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.7%** |
+| **Python** | `██░░░░░░░░░░░░░░░░░░` | **7.7%** |
+| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **5.8%** |
+| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.7%** |
+| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
+| **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.2%** |
+| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
+| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
+| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
+| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.6%** |
 
 ### Account & organization scan
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 140 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 94 | 9 | 4 | Python, PHP, Dockerfile, Shell, Go |
-| **HiTechAI VN** | 18 | 1 | 0 | TypeScript, C++, Dockerfile |
+| **Nguyen Thanh An** | 142 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
+| **HiTechCloud** | 99 | 9 | 4 | Python, PHP, Dockerfile, Shell, Go |
+| **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
 ### Auto-detected tech stack
@@ -208,8 +208,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Auto-detected stack | Signal |
 |---|---|
 | **Languages & Backend** | TypeScript · Node.js · PHP · Laravel · Python · FastAPI · SDK · JavaScript · Go |
-| **Cloud / DevOps / Infra** | Linux · Provisioning · NVIDIA GPU |
-| **AI / Automation / Tooling** | VS Code Extension · Developer Tools · Automation · CLI · One-click Setup · AI Engineering |
+| **Cloud / DevOps / Infra** | NVIDIA GPU |
+| **AI / Automation / Tooling** | VS Code Extension · Developer Tools · Automation · CLI · AI Engineering |
 | **API / Community** | Updating from repository metadata |
 
 ### High-signal repositories
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 | [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-19 00:58 UTC · run #58. Detected 75 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-21 00:56 UTC · run #60. Detected 88 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
