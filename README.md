@@ -159,18 +159,18 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-64748B?style=for-the-badge&logo=groovy&logoColor=white)
-![TSQL](https://img.shields.io/badge/TSQL-64748B?style=for-the-badge&logo=tsql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
-> Auto-generated profile intelligence from **288 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **295 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **288** |
-| Active source repositories | **189** |
+| Public repositories monitored | **295** |
+| Active source repositories | **194** |
 | Detected source languages | **88** |
 | Aggregate public stars | **42** |
 | Aggregate public forks | **11** |
@@ -181,7 +181,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Language | Usage | Share |
 |---|---:|---|
-| **C#** | `██████░░░░░░░░░░░░░░` | **32.0%** |
+| **C#** | `██████░░░░░░░░░░░░░░` | **31.9%** |
 | **TypeScript** | `██████░░░░░░░░░░░░░░` | **30.2%** |
 | **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.7%** |
 | **Python** | `██░░░░░░░░░░░░░░░░░░` | **7.7%** |
@@ -198,8 +198,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 142 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 99 | 9 | 4 | Python, PHP, Dockerfile, Shell, Go |
+| **Nguyen Thanh An** | 144 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
+| **HiTechCloud** | 104 | 9 | 4 | Python, PHP, Dockerfile, Shell, Go |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 | [`thanhan92-f1/proxmox-gpu-passthrough`](https://github.com/thanhan92-f1/proxmox-gpu-passthrough) | Shell · ⭐ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-21 00:56 UTC · run #60. Detected 88 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-22 00:55 UTC · run #61. Detected 88 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
