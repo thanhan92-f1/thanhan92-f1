@@ -163,19 +163,19 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **295 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **297 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **295** |
-| Active source repositories | **194** |
+| Public repositories monitored | **297** |
+| Active source repositories | **195** |
 | Detected source languages | **88** |
 | Aggregate public stars | **43** |
 | Aggregate public forks | **12** |
 | Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-07-22** |
+| Most recent public repository update | **2026-07-23** |
 
 ### Dynamic language coverage
 
@@ -198,8 +198,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 144 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 104 | 10 | 5 | Python, PHP, Dockerfile, Shell, Go |
+| **Nguyen Thanh An** | 145 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
+| **HiTechCloud** | 105 | 10 | 5 | Python, Shell, PHP, Dockerfile, Go |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-23 00:58 UTC · run #62. Detected 88 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-24 00:54 UTC · run #63. Detected 88 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
