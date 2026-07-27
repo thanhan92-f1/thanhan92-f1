@@ -163,33 +163,33 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **298 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **299 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **298** |
-| Active source repositories | **196** |
+| Public repositories monitored | **299** |
+| Active source repositories | **197** |
 | Detected source languages | **88** |
 | Aggregate public stars | **43** |
 | Aggregate public forks | **12** |
 | Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-07-25** |
+| Most recent public repository update | **2026-07-26** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **C#** | `██████░░░░░░░░░░░░░░` | **31.9%** |
-| **TypeScript** | `██████░░░░░░░░░░░░░░` | **30.2%** |
-| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.7%** |
-| **Python** | `██░░░░░░░░░░░░░░░░░░` | **7.7%** |
-| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **5.8%** |
-| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.7%** |
+| **C#** | `██████░░░░░░░░░░░░░░` | **31.5%** |
+| **TypeScript** | `██████░░░░░░░░░░░░░░` | **31.0%** |
+| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.6%** |
+| **Python** | `██░░░░░░░░░░░░░░░░░░` | **7.6%** |
+| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **5.7%** |
+| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.6%** |
 | **C++** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
 | **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.2%** |
-| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
+| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
 | **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
 | **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
 | **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.6%** |
@@ -199,7 +199,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
 | **Nguyen Thanh An** | 145 | 32 | 6 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 106 | 10 | 5 | Python, PHP, Shell, Dockerfile, Go |
+| **HiTechCloud** | 107 | 10 | 5 | Python, PHP, Shell, Dockerfile, Go |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-26 01:02 UTC · run #65. Detected 88 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-27 01:03 UTC · run #66. Detected 88 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
