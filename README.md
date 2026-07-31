@@ -175,7 +175,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Aggregate public stars | **43** |
 | Aggregate public forks | **13** |
 | Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-07-29** |
+| Most recent public repository update | **2026-07-30** |
 
 ### Dynamic language coverage
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-30 00:53 UTC · run #69. Detected 88 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-07-31 01:00 UTC · run #70. Detected 88 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
