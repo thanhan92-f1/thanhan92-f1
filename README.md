@@ -154,8 +154,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-64748B?style=for-the-badge&logo=groovy&logoColor=white)
@@ -163,43 +163,43 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **303 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **307 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **303** |
-| Active source repositories | **201** |
+| Public repositories monitored | **307** |
+| Active source repositories | **205** |
 | Detected source languages | **88** |
 | Aggregate public stars | **43** |
 | Aggregate public forks | **13** |
 | Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-08-13** |
+| Most recent public repository update | **2026-08-14** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **C#** | `██████░░░░░░░░░░░░░░` | **31.5%** |
-| **TypeScript** | `██████░░░░░░░░░░░░░░` | **31.0%** |
-| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.6%** |
-| **Python** | `██░░░░░░░░░░░░░░░░░░` | **7.6%** |
-| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **5.7%** |
-| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.6%** |
-| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
-| **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.2%** |
+| **C#** | `██████░░░░░░░░░░░░░░` | **30.0%** |
+| **TypeScript** | `██████░░░░░░░░░░░░░░` | **29.5%** |
+| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.1%** |
+| **Python** | `██░░░░░░░░░░░░░░░░░░` | **9.4%** |
+| **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **7.7%** |
+| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.5%** |
+| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **1.4%** |
+| **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
+| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
 | **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
-| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
 | **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
-| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.6%** |
+| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.7%** |
 
 ### Account & organization scan
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
 | **Nguyen Thanh An** | 145 | 32 | 7 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 111 | 10 | 5 | Python, PHP, Shell, Dockerfile, Go |
+| **HiTechCloud** | 115 | 10 | 5 | Python, PHP, Shell, Dockerfile, JavaScript |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-13 03:04 UTC · run #83. Detected 88 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-14 03:03 UTC · run #84. Detected 88 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
