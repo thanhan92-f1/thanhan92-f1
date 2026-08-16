@@ -172,10 +172,10 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Public repositories monitored | **307** |
 | Active source repositories | **205** |
 | Detected source languages | **88** |
-| Aggregate public stars | **43** |
+| Aggregate public stars | **47** |
 | Aggregate public forks | **13** |
 | Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-08-15** |
+| Most recent public repository update | **2026-08-16** |
 
 ### Dynamic language coverage
 
@@ -199,7 +199,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
 | **Nguyen Thanh An** | 145 | 32 | 7 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 115 | 10 | 5 | Python, PHP, Shell, Dockerfile, JavaScript |
+| **HiTechCloud** | 115 | 14 | 5 | Python, PHP, Shell, Dockerfile, JavaScript |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -217,7 +217,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Repository | Main signal |
 |---|---|
 | [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 12 · ⑂ 4 |
-| [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · ai · ai-agent · ai-tools · ⭐ 4 |
+| [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · ai · ai-agent · ai-tools · ⭐ 8 |
 | [`thanhan92-f1/nemoclaw-openclaw-sandbox`](https://github.com/thanhan92-f1/nemoclaw-openclaw-sandbox) | Shell · ai · ai-agent · nemoclaw · ⭐ 5 |
 | [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · ⭐ 6 |
 | [`thanhan92-f1/ubuntu-server-security`](https://github.com/thanhan92-f1/ubuntu-server-security) | Shell · ⭐ 2 |
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-15 01:54 UTC · run #85. Detected 88 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-16 02:01 UTC · run #86. Detected 88 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
