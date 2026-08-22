@@ -163,25 +163,25 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **308 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **314 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **308** |
-| Active source repositories | **206** |
-| Detected source languages | **88** |
+| Public repositories monitored | **314** |
+| Active source repositories | **212** |
+| Detected source languages | **89** |
 | Aggregate public stars | **47** |
 | Aggregate public forks | **13** |
 | Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-08-21** |
+| Most recent public repository update | **2026-08-22** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **C#** | `██████░░░░░░░░░░░░░░` | **30.0%** |
+| **C#** | `██████░░░░░░░░░░░░░░` | **29.9%** |
 | **TypeScript** | `██████░░░░░░░░░░░░░░` | **29.5%** |
 | **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.1%** |
 | **Python** | `██░░░░░░░░░░░░░░░░░░` | **9.4%** |
@@ -199,7 +199,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
 | **Nguyen Thanh An** | 145 | 32 | 7 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 116 | 14 | 5 | Python, PHP, Shell, Dockerfile, JavaScript |
+| **HiTechCloud** | 122 | 14 | 5 | Python, PHP, Go, Shell, Dockerfile |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-21 02:02 UTC · run #91. Detected 88 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-22 01:55 UTC · run #92. Detected 89 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
