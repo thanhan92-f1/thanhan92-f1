@@ -173,9 +173,9 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Active source repositories | **212** |
 | Detected source languages | **89** |
 | Aggregate public stars | **47** |
-| Aggregate public forks | **13** |
+| Aggregate public forks | **16** |
 | Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-08-22** |
+| Most recent public repository update | **2026-08-23** |
 
 ### Dynamic language coverage
 
@@ -198,7 +198,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 145 | 32 | 7 | Shell, Python, TypeScript, JavaScript, PHP |
+| **Nguyen Thanh An** | 145 | 32 | 10 | Shell, Python, TypeScript, JavaScript, PHP |
 | **HiTechCloud** | 122 | 14 | 5 | Python, PHP, Go, Shell, Dockerfile |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-22 01:55 UTC · run #92. Detected 89 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-23 02:04 UTC · run #93. Detected 89 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
