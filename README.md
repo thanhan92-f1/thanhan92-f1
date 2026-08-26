@@ -171,18 +171,18 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 |---|---:|
 | Public repositories monitored | **317** |
 | Active source repositories | **215** |
-| Detected source languages | **89** |
+| Detected source languages | **91** |
 | Aggregate public stars | **47** |
 | Aggregate public forks | **17** |
 | Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-08-25** |
+| Most recent public repository update | **2026-08-26** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **C#** | `██████░░░░░░░░░░░░░░` | **29.9%** |
-| **TypeScript** | `██████░░░░░░░░░░░░░░` | **29.5%** |
+| **C#** | `██████░░░░░░░░░░░░░░` | **29.8%** |
+| **TypeScript** | `██████░░░░░░░░░░░░░░` | **29.4%** |
 | **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.1%** |
 | **Python** | `██░░░░░░░░░░░░░░░░░░` | **9.4%** |
 | **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **7.7%** |
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-25 01:57 UTC · run #95. Detected 89 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-26 02:03 UTC · run #96. Detected 91 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
