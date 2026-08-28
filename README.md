@@ -152,10 +152,10 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-64748B?style=for-the-badge&logo=groovy&logoColor=white)
@@ -163,43 +163,43 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **315 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **316 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **315** |
-| Active source repositories | **213** |
+| Public repositories monitored | **316** |
+| Active source repositories | **214** |
 | Detected source languages | **91** |
-| Aggregate public stars | **47** |
+| Aggregate public stars | **49** |
 | Aggregate public forks | **17** |
 | Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-08-27** |
+| Most recent public repository update | **2026-08-28** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **C#** | `██████░░░░░░░░░░░░░░` | **29.8%** |
-| **TypeScript** | `██████░░░░░░░░░░░░░░` | **29.4%** |
-| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.1%** |
-| **Python** | `██░░░░░░░░░░░░░░░░░░` | **9.4%** |
-| **JavaScript** | `██░░░░░░░░░░░░░░░░░░` | **7.7%** |
-| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.5%** |
-| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **1.4%** |
-| **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
-| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
-| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
-| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
-| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.7%** |
+| **C#** | `██████░░░░░░░░░░░░░░` | **31.0%** |
+| **TypeScript** | `██████░░░░░░░░░░░░░░` | **30.8%** |
+| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.5%** |
+| **Python** | `██░░░░░░░░░░░░░░░░░░` | **7.5%** |
+| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **5.6%** |
+| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.6%** |
+| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.6%** |
+| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
+| **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.2%** |
+| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
+| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
+| **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.6%** |
 
 ### Account & organization scan
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
 | **Nguyen Thanh An** | 145 | 32 | 11 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 123 | 14 | 5 | Python, PHP, Go, Shell, Dockerfile |
+| **HiTechCloud** | 124 | 16 | 5 | Python, PHP, Go, Shell, Dockerfile |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 | [`hitechcloud-vietnam/donvihanhchinhvietnam`](https://github.com/hitechcloud-vietnam/donvihanhchinhvietnam) | ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-27 10:01 UTC · run #97. Detected 91 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-08-28 11:33 UTC · run #98. Detected 91 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
