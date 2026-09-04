@@ -146,8 +146,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -163,35 +163,35 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **316 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **318 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **316** |
+| Public repositories monitored | **318** |
 | Active source repositories | **214** |
 | Detected source languages | **91** |
 | Aggregate public stars | **50** |
 | Aggregate public forks | **18** |
-| Leading language by code volume | **C#** |
-| Most recent public repository update | **2026-09-03** |
+| Leading language by code volume | **TypeScript** |
+| Most recent public repository update | **2026-09-04** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **C#** | `██████░░░░░░░░░░░░░░` | **31.3%** |
-| **TypeScript** | `██████░░░░░░░░░░░░░░` | **30.8%** |
-| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.6%** |
-| **Python** | `██░░░░░░░░░░░░░░░░░░` | **7.6%** |
+| **TypeScript** | `██████░░░░░░░░░░░░░░` | **31.9%** |
+| **C#** | `██████░░░░░░░░░░░░░░` | **30.7%** |
+| **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.4%** |
+| **Python** | `██░░░░░░░░░░░░░░░░░░` | **7.5%** |
 | **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **5.7%** |
-| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.7%** |
-| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
+| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.6%** |
+| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **1.4%** |
 | **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.2%** |
 | **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
 | **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
-| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
+| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
 | **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.6%** |
 
 ### Account & organization scan
@@ -199,7 +199,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
 | **Nguyen Thanh An** | 145 | 32 | 11 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 124 | 17 | 6 | Python, PHP, Go, Shell, Dockerfile |
+| **HiTechCloud** | 126 | 17 | 6 | Python, PHP, Go, Shell, Dockerfile |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-09-03 04:41 UTC · run #104. Detected 91 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-09-04 04:44 UTC · run #105. Detected 91 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
