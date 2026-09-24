@@ -175,7 +175,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Aggregate public stars | **50** |
 | Aggregate public forks | **19** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-09-22** |
+| Most recent public repository update | **2026-09-23** |
 
 ### Dynamic language coverage
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-09-23 04:54 UTC · run #124. Detected 91 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-09-24 05:04 UTC · run #125. Detected 91 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
