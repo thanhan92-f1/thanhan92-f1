@@ -153,53 +153,53 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-64748B?style=for-the-badge&logo=groovy&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
-> Auto-generated profile intelligence from **326 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **329 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **326** |
-| Active source repositories | **222** |
+| Public repositories monitored | **329** |
+| Active source repositories | **225** |
 | Detected source languages | **91** |
 | Aggregate public stars | **50** |
 | Aggregate public forks | **19** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-09-26** |
+| Most recent public repository update | **2026-09-28** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **TypeScript** | `██████░░░░░░░░░░░░░░` | **31.7%** |
-| **C#** | `██████░░░░░░░░░░░░░░` | **30.5%** |
+| **TypeScript** | `██████░░░░░░░░░░░░░░` | **31.6%** |
+| **C#** | `██████░░░░░░░░░░░░░░` | **30.4%** |
 | **PHP** | `██░░░░░░░░░░░░░░░░░░` | **11.3%** |
 | **Python** | `██░░░░░░░░░░░░░░░░░░` | **7.6%** |
 | **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **6.0%** |
 | **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.6%** |
 | **C++** | `█░░░░░░░░░░░░░░░░░░░` | **1.4%** |
+| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.2%** |
 | **Java** | `█░░░░░░░░░░░░░░░░░░░` | **1.2%** |
-| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.1%** |
+| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
 | **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **1.0%** |
-| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
 | **HTML** | `█░░░░░░░░░░░░░░░░░░░` | **0.6%** |
 
 ### Account & organization scan
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 145 | 32 | 11 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 134 | 17 | 7 | Python, PHP, Dockerfile, Go, Shell |
+| **Nguyen Thanh An** | 146 | 32 | 11 | Shell, Python, TypeScript, JavaScript, PHP |
+| **HiTechCloud** | 136 | 17 | 7 | Python, PHP, Go, Shell, Dockerfile |
 | **HiTechAI VN** | 19 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -208,8 +208,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Auto-detected stack | Signal |
 |---|---|
 | **Languages & Backend** | TypeScript · Node.js · PHP · Laravel · Python · FastAPI · SDK · JavaScript · Go |
-| **Cloud / DevOps / Infra** | NVIDIA GPU |
-| **AI / Automation / Tooling** | VS Code Extension · Developer Tools · Automation · CLI · AI Engineering |
+| **Cloud / DevOps / Infra** | Linux · Provisioning · NVIDIA GPU |
+| **AI / Automation / Tooling** | VS Code Extension · Developer Tools · Automation · CLI · One-click Setup · AI Engineering |
 | **API / Community** | Updating from repository metadata |
 
 ### High-signal repositories
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`hitechcloud-vietnam/viettel_sinvoice`](https://github.com/hitechcloud-vietnam/viettel_sinvoice) | PHP · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-09-27 05:28 UTC · run #128. Detected 91 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-09-28 05:36 UTC · run #129. Detected 91 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
