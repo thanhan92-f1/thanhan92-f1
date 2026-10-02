@@ -163,19 +163,19 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **349 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **350 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **349** |
-| Active source repositories | **237** |
+| Public repositories monitored | **350** |
+| Active source repositories | **238** |
 | Detected source languages | **93** |
-| Aggregate public stars | **51** |
+| Aggregate public stars | **52** |
 | Aggregate public forks | **20** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-09-30** |
+| Most recent public repository update | **2026-10-01** |
 
 ### Dynamic language coverage
 
@@ -198,7 +198,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 152 | 33 | 12 | Shell, Python, TypeScript, JavaScript, PHP |
+| **Nguyen Thanh An** | 153 | 34 | 12 | Shell, Python, TypeScript, JavaScript, PHP |
 | **HiTechCloud** | 149 | 17 | 7 | Python, PHP, Go, Shell, Dockerfile |
 | **HiTechAI VN** | 20 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
@@ -216,7 +216,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Repository | Main signal |
 |---|---|
-| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 12 · ⑂ 4 |
+| [`thanhan92-f1/clawspark`](https://github.com/thanhan92-f1/clawspark) | Shell · amd · claw · clawdbot · ⭐ 13 · ⑂ 4 |
 | [`hitechcloud-vietnam/nvidia-ai-hub`](https://github.com/hitechcloud-vietnam/nvidia-ai-hub) | JavaScript · ai · ai-agent · ai-tools · ⭐ 8 |
 | [`thanhan92-f1/nemoclaw-openclaw-sandbox`](https://github.com/thanhan92-f1/nemoclaw-openclaw-sandbox) | Shell · ai · ai-agent · nemoclaw · ⭐ 5 |
 | [`thanhan92-f1/hitechclaw-ai`](https://github.com/thanhan92-f1/hitechclaw-ai) | TypeScript · ⭐ 6 |
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`thanhan92-f1/auto-banking-mbbank`](https://github.com/thanhan92-f1/auto-banking-mbbank) | TypeScript · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-01 06:10 UTC · run #132. Detected 93 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-02 05:53 UTC · run #133. Detected 93 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
