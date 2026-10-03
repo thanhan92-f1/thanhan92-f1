@@ -163,19 +163,19 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **350 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **355 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **350** |
-| Active source repositories | **238** |
+| Public repositories monitored | **355** |
+| Active source repositories | **242** |
 | Detected source languages | **93** |
 | Aggregate public stars | **52** |
-| Aggregate public forks | **20** |
+| Aggregate public forks | **22** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-10-01** |
+| Most recent public repository update | **2026-10-03** |
 
 ### Dynamic language coverage
 
@@ -198,8 +198,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 153 | 34 | 12 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 149 | 17 | 7 | Python, PHP, Go, Shell, Dockerfile |
+| **Nguyen Thanh An** | 156 | 34 | 13 | Shell, Python, TypeScript, JavaScript, PHP |
+| **HiTechCloud** | 151 | 17 | 8 | Python, PHP, Go, Shell, Dockerfile |
 | **HiTechAI VN** | 20 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`thanhan92-f1/auto-banking-mbbank`](https://github.com/thanhan92-f1/auto-banking-mbbank) | TypeScript · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-02 05:53 UTC · run #133. Detected 93 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-03 05:29 UTC · run #134. Detected 93 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
