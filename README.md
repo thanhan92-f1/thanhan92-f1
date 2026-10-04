@@ -151,55 +151,55 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![MDX](https://img.shields.io/badge/MDX-64748B?style=for-the-badge&logo=mdx&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PLpgSQL](https://img.shields.io/badge/PLpgSQL-64748B?style=for-the-badge&logo=plpgsql&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
-> Auto-generated profile intelligence from **355 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **404 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **355** |
-| Active source repositories | **242** |
-| Detected source languages | **93** |
+| Public repositories monitored | **404** |
+| Active source repositories | **248** |
+| Detected source languages | **100** |
 | Aggregate public stars | **52** |
 | Aggregate public forks | **22** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-10-03** |
+| Most recent public repository update | **2026-10-04** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **TypeScript** | `██████████░░░░░░░░░░` | **52.2%** |
-| **C#** | `████░░░░░░░░░░░░░░░░` | **19.5%** |
-| **PHP** | `█░░░░░░░░░░░░░░░░░░░` | **7.2%** |
-| **Python** | `█░░░░░░░░░░░░░░░░░░░` | **5.7%** |
-| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **4.5%** |
-| **C** | `█░░░░░░░░░░░░░░░░░░░` | **1.7%** |
-| **MDX** | `█░░░░░░░░░░░░░░░░░░░` | **1.6%** |
-| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
-| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
-| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
-| **Java** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
-| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **0.7%** |
+| **TypeScript** | `██████████░░░░░░░░░░` | **49.4%** |
+| **C#** | `████░░░░░░░░░░░░░░░░` | **17.9%** |
+| **PHP** | `█░░░░░░░░░░░░░░░░░░░` | **6.6%** |
+| **Python** | `█░░░░░░░░░░░░░░░░░░░` | **6.0%** |
+| **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **4.3%** |
+| **Rust** | `█░░░░░░░░░░░░░░░░░░░` | **4.0%** |
+| **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.2%** |
+| **MDX** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
+| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
+| **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.3%** |
+| **C++** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
+| **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
 
 ### Account & organization scan
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 156 | 34 | 13 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 151 | 17 | 8 | Python, PHP, Go, Shell, Dockerfile |
+| **Nguyen Thanh An** | 190 | 34 | 13 | Shell, Python, TypeScript, JavaScript, PHP |
+| **HiTechCloud** | 166 | 17 | 8 | Python, PHP, Go, Shell, Dockerfile |
 | **HiTechAI VN** | 20 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -209,7 +209,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 |---|---|
 | **Languages & Backend** | TypeScript · Node.js · PHP · Laravel · Python · FastAPI · SDK · JavaScript · Go |
 | **Cloud / DevOps / Infra** | Linux · Provisioning · NVIDIA GPU |
-| **AI / Automation / Tooling** | VS Code Extension · Developer Tools · Automation · One-click Setup · CLI · AI Engineering |
+| **AI / Automation / Tooling** | VS Code Extension · Developer Tools · Automation · CLI · One-click Setup · AI Engineering |
 | **API / Community** | Updating from repository metadata |
 
 ### High-signal repositories
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`thanhan92-f1/auto-banking-mbbank`](https://github.com/thanhan92-f1/auto-banking-mbbank) | TypeScript · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-03 05:29 UTC · run #134. Detected 93 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-04 06:04 UTC · run #135. Detected 100 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
