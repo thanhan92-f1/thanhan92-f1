@@ -153,8 +153,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![MDX](https://img.shields.io/badge/MDX-64748B?style=for-the-badge&logo=mdx&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-64748B?style=for-the-badge&logo=mdx&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -163,33 +163,33 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **404 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **408 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **404** |
-| Active source repositories | **248** |
+| Public repositories monitored | **408** |
+| Active source repositories | **251** |
 | Detected source languages | **100** |
 | Aggregate public stars | **52** |
-| Aggregate public forks | **22** |
+| Aggregate public forks | **23** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-10-04** |
+| Most recent public repository update | **2026-10-05** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **TypeScript** | `██████████░░░░░░░░░░` | **49.4%** |
-| **C#** | `████░░░░░░░░░░░░░░░░` | **17.9%** |
+| **TypeScript** | `██████████░░░░░░░░░░` | **49.3%** |
+| **C#** | `████░░░░░░░░░░░░░░░░` | **17.8%** |
 | **PHP** | `█░░░░░░░░░░░░░░░░░░░` | **6.6%** |
 | **Python** | `█░░░░░░░░░░░░░░░░░░░` | **6.0%** |
 | **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **4.3%** |
 | **Rust** | `█░░░░░░░░░░░░░░░░░░░` | **4.0%** |
 | **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.2%** |
+| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.7%** |
 | **MDX** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
-| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
 | **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.3%** |
 | **C++** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
 | **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
@@ -198,8 +198,8 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 190 | 34 | 13 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 166 | 17 | 8 | Python, PHP, Go, Shell, Dockerfile |
+| **Nguyen Thanh An** | 191 | 34 | 13 | Shell, Python, TypeScript, JavaScript, PHP |
+| **HiTechCloud** | 169 | 17 | 9 | Python, PHP, Go, Dockerfile, Shell |
 | **HiTechAI VN** | 20 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`thanhan92-f1/auto-banking-mbbank`](https://github.com/thanhan92-f1/auto-banking-mbbank) | TypeScript · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-04 06:04 UTC · run #135. Detected 100 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-05 05:54 UTC · run #136. Detected 100 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
