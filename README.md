@@ -175,20 +175,20 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Aggregate public stars | **53** |
 | Aggregate public forks | **23** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-10-08** |
+| Most recent public repository update | **2026-10-09** |
 
 ### Dynamic language coverage
 
 | Language | Usage | Share |
 |---|---:|---|
-| **TypeScript** | `██████████░░░░░░░░░░` | **49.2%** |
-| **C#** | `████░░░░░░░░░░░░░░░░` | **17.8%** |
+| **TypeScript** | `██████████░░░░░░░░░░` | **49.1%** |
+| **C#** | `████░░░░░░░░░░░░░░░░` | **17.7%** |
 | **PHP** | `█░░░░░░░░░░░░░░░░░░░` | **6.6%** |
 | **Python** | `█░░░░░░░░░░░░░░░░░░░` | **5.9%** |
 | **JavaScript** | `█░░░░░░░░░░░░░░░░░░░` | **4.3%** |
-| **Rust** | `█░░░░░░░░░░░░░░░░░░░` | **4.0%** |
+| **Rust** | `█░░░░░░░░░░░░░░░░░░░` | **4.2%** |
 | **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.2%** |
-| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **1.9%** |
+| **Go** | `█░░░░░░░░░░░░░░░░░░░` | **2.0%** |
 | **MDX** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
 | **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.3%** |
 | **C++** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`thanhan92-f1/auto-banking-mbbank`](https://github.com/thanhan92-f1/auto-banking-mbbank) | TypeScript · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-08 06:20 UTC · run #139. Detected 100 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-09 06:21 UTC · run #140. Detected 100 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
