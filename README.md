@@ -163,19 +163,19 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **414 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **415 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **414** |
-| Active source repositories | **257** |
+| Public repositories monitored | **415** |
+| Active source repositories | **259** |
 | Detected source languages | **100** |
 | Aggregate public stars | **54** |
 | Aggregate public forks | **23** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-10-13** |
+| Most recent public repository update | **2026-10-14** |
 
 ### Dynamic language coverage
 
@@ -199,7 +199,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
 | **Nguyen Thanh An** | 192 | 35 | 13 | Shell, Python, TypeScript, JavaScript, PHP |
-| **HiTechCloud** | 174 | 18 | 9 | Python, PHP, Go, Dockerfile, Shell |
+| **HiTechCloud** | 175 | 18 | 9 | Python, PHP, Go, Dockerfile, Shell |
 | **HiTechAI VN** | 20 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`thanhan92-f1/auto-banking-mbbank`](https://github.com/thanhan92-f1/auto-banking-mbbank) | TypeScript · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-13 06:55 UTC · run #144. Detected 100 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-14 05:05 UTC · run #145. Detected 100 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
