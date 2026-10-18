@@ -163,19 +163,19 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 </div>
 
-> Auto-generated profile intelligence from **418 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
+> Auto-generated profile intelligence from **419 public repositories** across the personal profile and managed organizations. Repository signals, language coverage and inferred capabilities refresh through GitHub Actions.
 
 ### Real-time portfolio signals
 
 | Live signal | Value |
 |---|---:|
-| Public repositories monitored | **418** |
-| Active source repositories | **262** |
+| Public repositories monitored | **419** |
+| Active source repositories | **263** |
 | Detected source languages | **100** |
 | Aggregate public stars | **54** |
 | Aggregate public forks | **23** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-10-17** |
+| Most recent public repository update | **2026-10-18** |
 
 ### Dynamic language coverage
 
@@ -189,7 +189,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | **Rust** | `█░░░░░░░░░░░░░░░░░░░` | **4.1%** |
 | **C** | `█░░░░░░░░░░░░░░░░░░░` | **2.1%** |
 | **Go** | `█░░░░░░░░░░░░░░░░░░░` | **2.0%** |
-| **MDX** | `█░░░░░░░░░░░░░░░░░░░` | **1.5%** |
+| **MDX** | `█░░░░░░░░░░░░░░░░░░░` | **1.4%** |
 | **Shell** | `█░░░░░░░░░░░░░░░░░░░` | **1.3%** |
 | **CSS** | `█░░░░░░░░░░░░░░░░░░░` | **0.9%** |
 | **C++** | `█░░░░░░░░░░░░░░░░░░░` | **0.8%** |
@@ -198,7 +198,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 
 | Scope | Public repos scanned | Stars | Forks | Top primary languages |
 |---|---:|---:|---:|---|
-| **Nguyen Thanh An** | 192 | 35 | 13 | Shell, Python, TypeScript, JavaScript, PHP |
+| **Nguyen Thanh An** | 193 | 35 | 13 | Shell, Python, TypeScript, JavaScript, PHP |
 | **HiTechCloud** | 178 | 18 | 9 | Python, PHP, Go, Shell, Dockerfile |
 | **HiTechAI VN** | 20 | 1 | 0 | TypeScript, C++, Dockerfile |
 | **Vietnam API Sharing Community** | 28 | 0 | 1 | Python, JavaScript, TypeScript, HTML |
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 | [`thanhan92-f1/auto-banking-mbbank`](https://github.com/thanhan92-f1/auto-banking-mbbank) | TypeScript · ⭐ 1 · ⑂ 1 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-17 04:41 UTC · run #148. Detected 100 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-10-18 04:47 UTC · run #149. Detected 100 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
