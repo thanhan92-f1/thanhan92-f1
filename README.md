@@ -175,7 +175,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | Aggregate public stars | **56** |
 | Aggregate public forks | **23** |
 | Leading language by code volume | **TypeScript** |
-| Most recent public repository update | **2026-11-05** |
+| Most recent public repository update | **2026-11-06** |
 
 ### Dynamic language coverage
 
@@ -225,7 +225,7 @@ My work combines executive leadership with hands-on engineering. I focus on turn
 | [`hitechcloud-vietnam/wp2shell-PoC`](https://github.com/hitechcloud-vietnam/wp2shell-PoC) | Python · cve-2026-60137 · cve-2026-63030 · ⭐ 1 |
 | [`hitechcloud-vietnam/vkai-panel`](https://github.com/hitechcloud-vietnam/vkai-panel) | Makefile · ⭐ 2 |
 
-<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-11-05 07:02 UTC · run #167. Detected 100 languages from GitHub repository language data.</sub>
+<sub>Last metrics refresh: GitHub Actions scheduled/manual update · 2026-11-06 07:02 UTC · run #168. Detected 100 languages from GitHub repository language data.</sub>
 
 <!-- PROFILE-METRICS:END -->
 
